@@ -12,7 +12,9 @@ Q2 2023 Earnings Call
 
 
                                                            Total Pages: 20
-
+1-877-FACTSET www.callstreet.com   Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 
 
@@ -21,7 +23,7 @@ Suhasini Chandramouli                                                           
 Head-Investor Relations, Apple, Inc.                                                                                                       Chief Financial Officer & Senior Vice President, Apple, Inc.
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 
 
@@ -42,11 +44,18 @@ Analyst, JPMorgan Securities LLC
 
 
 
+                                                                                                                                                                                                                                                                 2
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
+
+
+
 MANAGEMENT DISCUSSION SECTION
 Operator: Good day and welcome to the Apple Q2 Fiscal Year 2023 Earnings Conference Call. Today's call is
 being recorded. At this time, for opening remarks and introductions, I would like to turn the call over to Suhasini
 Chandramouli, Director of Investor Relations. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.
@@ -65,7 +74,7 @@ assumes no obligation to update any forward-looking statements or information wh
 dates.
 
 I'd now like to turn the call over to Tim for introductory remarks.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.
@@ -88,6 +97,12 @@ markets we track. Despite these challenges, we continue to manage for the long-t
 what's possible, always on behalf of the customers who depend on our products, whether it's students exploring
 new frontiers, developers dreaming up their next big idea or artists taking their creativity to a whole new level.
 
+
+
+                                                                                                                                                                                                                                                                 3
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                   04-May-2023
 
 Let me share how these results showed up across our lineup of products and services. Let's start with iPhone,
 which set a new March quarter record with revenue of $51.3 billion. The iPhone 14 and 14 Plus continue to
@@ -138,6 +153,13 @@ special to classical music lovers. Apple Music Classical packs the largest libra
 thoughtful and intuitive design that strikes all the right notes. Whether you're listening with AirPods or HomePod,
 
 
+
+
+                                                                                                                     4
+1-877-FACTSET www.callstreet.com                                    Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
+
 the premium sound experience of Apple Music Classical will leave you with a feeling of being front row at the
 Symphony just behind the conductor.
 
@@ -185,8 +207,15 @@ So, we will manage for the long-term, just as we always have, with our eyes to t
 and with a deep belief that we can achieve anything we put our minds to.
 
 With that, I'll turn it over to Luca.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
+
+
+
+                                                                                                                                                                                                                                                                 5
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                       Corrected Transcript
+Q2 2023 Earnings Call                                                                                04-May-2023
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.
@@ -236,6 +265,13 @@ new all-time high in all geographic segments, thanks to exceptional customer loy
 customers. In fact, over half of the customers who purchased iPads during the quarter were new to the product.
 
 
+
+
+                                                                                                                6
+1-877-FACTSET www.callstreet.com                                  Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                  04-May-2023
+
 Wearables, Home and Accessories revenue was $8.8 billion, down 1% year-over-year, as the category
 experienced the impact from the macroeconomic environment. However, we did set March quarter records both in
 the US and in Greater China. We continue to see strength in our Watch installed base, which set a new all-time
@@ -284,6 +320,13 @@ We're also raising our dividend by 4% to $0.24 a share, and we continue to plan 
 dividend going forward.
 
 
+
+
+                                                                                                                   7
+1-877-FACTSET www.callstreet.com                                    Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
+
 As we move ahead into the June quarter, I'd like to review our outlook, which includes the types of forward-
 looking information that Suhasini referred to at the beginning of the call. We expect our June quarter year-over-
 year revenue performance to be similar to the March quarter, assuming that the macroeconomic outlook does not
@@ -301,19 +344,19 @@ declared a cash dividend of $0.24 per share of common stock payable on May 18, 2
 as on May 15, 2023.
 
 With that, let's open the call to questions.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.
 Thank you, Luca. We ask that you limit yourself to two questions. Operator, may we have the first question,
 please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 
 
 QUESTION AND ANSWER SECTION
 Operator: Certainly. We will go ahead and take our first question from Erik Woodring of Morgan Stanley.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Erik W. Woodring
 Analyst, Morgan Stanley & Co. LLC                                                                                                                                                                                                                         Q
@@ -324,18 +367,21 @@ quite strong, 2% year-over-year iPhone growth. And so, as we sit here in May, ho
 that weren't able to purchase during the December quarter behave, meaning are you seeing that they deferred
 purchases to March and June? Could they be deferring purchases to later in hopes of buying a new iPhone? Just
 how should maybe we think about the cadence of that? And then, I have a follow-up. Thanks.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 Yes. Hi, Erik. It's hard to quantify this. But we do believe we did recapture some amount of sales in the March
 quarter, as we did see the iPhone performance accelerate relative to the December quarter. The production levels
 for the whole quarter were where we wanted them to be. So, supply was not an issue during Q2.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Erik W. Woodring
 Analyst, Morgan Stanley & Co. LLC                                                                                                                                                                                                                         Q
-
+                                                                                                                                                                                                                                                                 8
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Okay, perfect. Thank you for that color. And Tim, maybe to follow up, it's been three or four quarters now that
 you've mentioned emerging markets like India and others. And I imagine having just opened two new stores in the
@@ -343,7 +389,7 @@ country, it's clearly an important market for you. So, maybe can you just talk a
 important market and others, how you think about monetization trends in the country, and specifically, what you
 have to do within the country to really ensure that India becomes maybe a more material mix of your business?
 And that's it for me. Thanks so much.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -363,20 +409,20 @@ Turkey, UAE, and then quarterly records in Brazil, India and Malaysia. And so, i
 markets in general despite the headwinds of the currency that Luca mentioned. And so, we're putting efforts in a
 number of these markets and really see, particularly given our low share and the dynamics of the demographics,
 et cetera, a great opportunity for us in those markets.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Erik. Can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Erik W. Woodring
 Analyst, Morgan Stanley & Co. LLC                                                                                                                                                                                                                         Q
 Thank you so much.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Mike Ng of Goldman Sachs. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Michael Ng
 Analyst, Goldman Sachs & Co. LLC                                                                                                                                                                                                                          Q
@@ -386,8 +432,15 @@ across the active devices. I was just wondering, is that a good way to think abo
 forward? And then, for the iPhone installed base specifically, I was just wondering if you could provide a little bit of
 texture around how you think about the growth there whether regionally or by first smartphones versus switchers.
 And then, I have a quick follow-up.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
+
+
+
+                                                                                                                                                                                                                                                                 9
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -399,7 +452,7 @@ satisfaction and engagement and loyalty of our customers. And so, we view this a
 iPhone base is well over 1 billion active devices. We see this as – upgrade rates and these sorts of things may
 change quarter to quarter depending upon macroeconomic. But if you back up and look at the installed base, we
 feel great about the size of it and the rate that it's growing.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Michael Ng
 Analyst, Goldman Sachs & Co. LLC                                                                                                                                                                                                                          Q
@@ -407,7 +460,7 @@ Great. Excellent. And then, it was also encouraging to see the number of devices
 grow. I was just wondering if you could talk about the opportunity to continue to increase that number of Apple
 devices per iPhone user, and if you have any color around how the monetization per user may differ from those,
 for lack of a better word, super-users versus those that may not be as deep into the ecosystem. Thanks.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -416,20 +469,20 @@ that's the Watch or the Mac and – so that you can start working on one device 
 there are a good deal of people out there that have multiple Apple devices, and I think this is a testament to the
 customer satisfaction and loyalty that we've been able to get from the incredible design that our engineering
 teams do on our products.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Michael Ng
 Analyst, Goldman Sachs & Co. LLC                                                                                                                                                                                                                          Q
 Excellent. Thank you, Tim.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Michael. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Shannon Cross of Credit Suisse. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Shannon S. Cross
 Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                               Q
@@ -438,8 +491,15 @@ more than the topic of the day, it seems like the topic of the year. Just how do
 products and services? I know you use it in different ways. But also if you can just give us any thoughts you have
 on generative AI, and I don't know, where you see it going. Not sure what you want to say on it, but I'm really
 curious to see your take. Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
+
+
+
+                                                                                                                                                                                                                                                             10
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -451,7 +511,7 @@ ecosystem, and we weaved it into products and features for many years, as you pr
 in things like fall detection and crash detection and ECG. These things are not only great features, they're saving
 people's lives out there. And so, it's absolutely remarkable. And so, we are – we view AI as huge, and we'll
 continue weaving it in our products on a very thoughtful basis.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Shannon S. Cross
 Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                               Q
@@ -460,7 +520,7 @@ manufacturing footprint? I'm curious, obviously, you have a very tight network i
 move to some of these other regions? Are you seeing any impact from a margin perspective or just any thoughts
 you have on what you've seen as you started to shift more and more outside of China, whether it's growth or it's
 actual production? Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -471,20 +531,20 @@ every day and week and so forth to ensure that we can deliver the best products 
 If you sort of step back and look at how we performed over the last three years on the supply chain, despite this
 parade of horribles, if you will, between the pandemic and the chip shortages and macroeconomic kind of factors,
 the supply chain has been incredibly resilient. And we feel good about what we are and what our plans are.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Shannon S. Cross
 Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                               Q
 Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Shannon. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Wamsi Mohan of Bank of America. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Wamsi Mohan
 Analyst, BofA Securities, Inc.                                                                                                                                                                                                                            Q
@@ -492,15 +552,21 @@ Yes. Thank you. Tim, you had called out on December quarter earnings that Pro mo
 constrained. Did you see a catch-up on the Pro models specifically in the March quarter and was the mix better
 than typical? And do you see that mix renormalizing here in the June quarter and maybe you can comment on the
 channel inventory levels as well for iPhones? And I have a follow-up.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
+
+
+                                                                                                                                                                                                                                                             11
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 Sure. It's hard to quantify, Wamsi. But we do believe we did recapture some amount of sales in the March quarter.
 And obviously, we had to set the channel at the right levels, and we're very comfortable with the channel inventory
 that we have on a forward basis. So, we do think there was some, but it's difficult to quantify it.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Wamsi Mohan
 Analyst, BofA Securities, Inc.                                                                                                                                                                                                                            Q
@@ -508,7 +574,7 @@ Okay. Thanks, Tim. And Tim, as a follow-up, you've launched so many services aro
 you mentioned buy now, pay later, a high-yield savings account. Where do you see the expansion in the
 payments ecosystem over time? And do you look at the payments ecosystem as a standalone revenue
 opportunity or is it more about making the devices even more inseparable from us? Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -520,20 +586,20 @@ things have to stand on their own obviously. But we're very user-focused, and so
 things are – provide them pinch points and orchestrate our roadmaps around that. Buy now, pay later is another
 one that we've just gotten out of the chute. But on the savings account specifically, we are very pleased with the
 initial response on it. It's been incredible.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Wamsi Mohan
 Analyst, BofA Securities, Inc.                                                                                                                                                                                                                            Q
 Thanks, Tim.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Wamsi. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from David Vogt of UBS. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 David Vogt
 Analyst, UBS Securities LLC                                                                                                                                                                                                                               Q
@@ -543,11 +609,14 @@ in the March quarter from some of your larger carriers that exhibited relatively
 to kind of get a sense for where you're seeing demand signals today vis-à-vis how you were thinking about it
 maybe a month ago or even three months ago. And is there sort of an acceleration in demand or any sort of
 signals that you might want to share with us at this point? And then, I have a follow-up.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
-
+                                                                                                                                                                                                                                                             12
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 I don't want to go into what we're seeing in Q3 other than the guidance that Luca has given. But for Q2, I think
 you're probably referencing primarily US carriers. And if you look at our geographic distribution of our
@@ -555,7 +624,7 @@ performance, it was lower in the Americas, which is primarily predominantly the 
 is – I believe is macroeconomic. A part is that there were more promotional activity in the year-ago quarter. And
 so, I think that's what you're seeing there. Where our results were really stellar during this quarter was really in the
 emerging markets, and we couldn't be prouder of the results that we had there.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 David Vogt
 Analyst, UBS Securities LLC                                                                                                                                                                                                                               Q
@@ -565,7 +634,7 @@ you seeing users of all the disparate services change in what they're using and 
 spent with an Apple service, now that we're technically hopefully fully past COVID with China almost fully
 reopened? I'm just trying to get a sense for how user or consumer behaviors changed over the last three to six
 months. Thanks.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
@@ -580,20 +649,20 @@ content on their devices, and so they adopt our cloud services. And in general, 
 paid subscriptions continues to grow very strongly. I mentioned we now have more than 975 million paid
 subscriptions on the platform, and that's almost twice as much what we had only three years ago. So, obviously,
 the growth in subscriptions is very strong.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 David Vogt
 Analyst, UBS Securities LLC                                                                                                                                                                                                                               Q
 Great. Thanks, guys.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 All right. Thanks, David. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Samik Chatterjee of JPMorgan. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Samik Chatterjee
 Analyst, JPMorgan Securities LLC                                                                                                                                                                                                                          Q
@@ -603,10 +672,15 @@ where you stand, even if I back out FX impact, is more about low double-digits. 
 get often from investors and want to get your thoughts on is, even as the installed base growth seems to have
 
 
+                                                                                                                                                                                                                                                             13
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
+
 accelerated, are these more cyclical drivers that are depressing growth at this point from returning to that level or
 do you see more of a roll-out on the monetization that you need to do to get back to those growth levels? And I
 have a follow-up, please.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
@@ -614,7 +688,7 @@ Samik, the areas where we are seeing the impact of the macro environment, as I m
 – as you know, obviously, the macro environment is not helping on that front – and mobile gaming, where we've
 seen a bit of a slowdown partly due to the macro environment, partly due to the fact that we had very elevated
 usage during the COVID years. But outside of those areas, we continue to see very healthy growth rates.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Samik Chatterjee
 Analyst, JPMorgan Securities LLC                                                                                                                                                                                                                          Q
@@ -625,7 +699,7 @@ for the overall business. I mean, what are you seeing in terms of customer sort 
 does the consumer sort of continue to deteriorate in terms of spending patterns? And is your sort of momentum
 here just a function of share gains? How should we think about sort of where the consumer is versus what your
 products are doing independent of that?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
@@ -634,20 +708,20 @@ those are markets where our share is low. It gives us a great opportunity to gro
 the growth of the installed base, because you can imagine that in places where our market share is low, we tend
 to add a lot of switchers, people that are new to the Apple ecosystem. That increases the installed base, and over
 the longer term, it obviously improves our ability to monetize on services as well.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Samik Chatterjee
 Analyst, JPMorgan Securities LLC                                                                                                                                                                                                                          Q
 Thank you. Thanks for taking my questions.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 All right. Thanks, Samik. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Amit Daryanani of Evercore.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Amit Daryanani
 Analyst, Evercore ISI                                                                                                                                                                                                                                     Q
@@ -657,6 +731,11 @@ touch on what's driving the strength in gross margin sequentially that's offsett
 And then, I also notice that the range of your gross margin guide is 50 basis points. It's typically 100 basis points.
 What does that entail? What does that mean?
 
+
+                                                                                                                                                                                                                                                             14
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
@@ -669,34 +748,34 @@ level of margins. As you know – you were asking about 50 basis points. We have
 range before as well. This year in particular, because of the 14th week in the – during the December quarter,
 we're a bit late in the calendar year, right. And so, we have a bit more visibility around margins for the June
 quarter.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Amit Daryanani
 Analyst, Evercore ISI                                                                                                                                                                                                                                     Q
 Got it. That's helpful. And then, I guess, Tim, if I just kind of go back to the India discussion a bit, perhaps you
 could just contrast what you're seeing in India today versus what you saw in China maybe a decade or so ago. Is
 that a reasonable ramp to think India would have or could it be different from the lessons you've seen in China?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 I think each country is different and has their own journey. And so, I hesitate to compare too much. But what I do
 see in India is a lot of people entering the middle-class, and I'm hopeful that we can convince some number of
 them to buy an iPhone. And we'll see how that works out. But right now, it's working out well.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Amit Daryanani
 Analyst, Evercore ISI                                                                                                                                                                                                                                     Q
 Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Amit. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Krish Sankar of TD Cowen. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Krish Sankar
 Analyst, TD Cowen                                                                                                                                                                                                                                         Q
@@ -705,18 +784,22 @@ consumer-centric company. But it seems like the line is blurring with the iPhone
 used for corporate applications. So, is there a way to segment how much of your revenues today are coming from
 enterprise versus consumer? And does the slower corporate IT spend impact your outlook for iPhone, iPad, Mac,
 et cetera? And then, I had a follow-up.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 
+                                                                                                                                                                                                                                                             15
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Internally, we have our estimates for how much is enterprise versus consumer, and the enterprise business is
 growing. We have been focusing a lot on BYOD programs, and there's more and more companies that are
 leaning into those and giving employees the ability to select, which plays to our benefit, I believe, because I think
 a lot of people want to use a Mac at work or an iPad at work. But we're certainly primarily a consumer company in
 terms of our revenues obviously.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Krish Sankar
 Analyst, TD Cowen                                                                                                                                                                                                                                         Q
@@ -724,32 +807,32 @@ Got it, Tim. Thanks for that. And then, just as a follow-up, obviously, lot of q
 I'm just kind of curious, you also mentioned that you hope to convert a lot of folks into iPhone there. Where do you
 think the biggest opportunity is? Is it like primarily a hardware business like the iPhone, iPad, Wearables, et
 cetera? Or do you think there is a service opportunity in India longer term too? Thank you very much.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 I think there's an opportunity across the board including in services. Obviously, the ARPUs are lower in India for –
 whether you're talking about TV and movie streaming or music, the ARPUs are much lower than other regions.
 But if you look at it over a long arc of time, I think there's a good opportunity across the board.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Krish Sankar
 Analyst, TD Cowen                                                                                                                                                                                                                                         Q
 Thanks a lot, Tim.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 Yeah.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thanks, Krish. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Aaron Rakers of Wells Fargo. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Aaron Rakers
 Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                                       Q
@@ -757,7 +840,7 @@ Yeah. Thanks for taking the questions. I guess my first question is, I want to g
 dynamics. I'm curious, as we all think about the reopening attributes of China, just how you would characterize the
 shaping of demand you saw through the course of this last quarter and kind of how you're thinking about the
 impact of that reopening playing out over the next couple quarters?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
@@ -765,6 +848,12 @@ Yeah. If you look at China, our revenue came in at negative 3% for the quarter y
 grew on a constant currency basis. And we also accelerated as compared to the December quarter which, as you
 know, had 14 weeks in it and was a negative 7% on a reported basis. And so, we were pleased with how we did
 
+
+
+                                                                                                                                                                                                                                                             16
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 and with the acceleration that we saw with the reopening. And we'll see how we do this quarter. But if you look at
 the top-selling smartphones in urban China based on a survey from Kantar, we have four out of the top five.
@@ -775,7 +864,7 @@ buyers. For example, on the Mac, about 6 out of 10 customers are buying the Mac 
 on iPad. If you look over at the Watch, it's more than three out of four customers are buying the Watch for the first
 time. And so, the buyer metrics, if you will, are very, very good. And our services business hit an all-time record in
 China during the quarter.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Aaron Rakers
 Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                                       Q
@@ -784,26 +873,26 @@ about FX, the lessening impact there. I'm just curious of when you look at our g
 mix attributes kind of potentially continuing to drive that higher. But I'm curious on the current environment how
 you would characterize the component pricing dynamics and what you're thinking about in this current quarter's
 guidance.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
 Yeah. The environment on the component side is favorable. We've seen component prices decline during the
 March quarter, and we expect the same during the June quarter.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Aaron Rakers
 Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                                       Q
 Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thank you, Aaron. Operator, can we have the next question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Sidney Ho of Deutsche Bank. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Sidney Ho
 Analyst, Deutsche Bank Securities, Inc.                                                                                                                                                                                                                   Q
@@ -811,7 +900,7 @@ Great. Thanks for taking my question. I was hoping we can talk about the lineari
 perhaps the first 4.5 weeks of the current quarter. It looks like things are slowing down quite a bit elsewhere. But if
 my math is right, your fiscal third quarter guidance implies product revenue will be a little bit lower than seasonal
 average on a sequential basis. Any color would be helpful. Thanks.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
@@ -821,35 +910,40 @@ our products and also that especially over the last few years, we've seen a cert
 Sometimes, it was COVID-related. Sometimes, it was related to specific component shortages. Just to remind
 
 
+                                                                                                                                                                                                                                                             17
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
+
 you, in the June quarter a year ago, we had the full quarter impact of the launch for both of the iPhone SE and the
 iPad Air, which leads to a more difficult compare. So, I think it's important to keep those things in mind.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Sidney Ho
 Analyst, Deutsche Bank Securities, Inc.                                                                                                                                                                                                                   Q
 Okay. That's helpful. Maybe as a quick follow-up, you talked about Apple Pay Later. How has the feedback been
 so far and how do you expect the adoption of that service over the next few quarters? Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 The feedback for both Apple Pay Later and the savings product have both been really good, and we think both of
 them help customers live a better – or a healthier financial life. And so, we're very excited about the first days of
 both of them.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Sidney Ho
 Analyst, Deutsche Bank Securities, Inc.                                                                                                                                                                                                                   Q
 Okay. Thank you.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.                                                                                                                                                                                                                       A
 Thank you, Sidney. Operator, can we have the last question, please?
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Our next question is from Harsh Kumar of Piper Sandler. Please go ahead.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Harsh V. Kumar
 Analyst, Piper Sandler & Co.                                                                                                                                                                                                                              Q
@@ -857,14 +951,14 @@ Yeah. Hey, guys. Thanks for squeezing me in. Tim, you're one of the largest chip
 component maker. You actually use your own products. But we almost never hear in any context of you guys
 being a beneficiary – Apple being a beneficiary for either the CHIPS Act money or the R&D tax credit that's being
 proposed. I was just curious if you're eligible for any of those. And then, I've got a follow-up.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 I don't see Apple participating in the CHIPS Act directly. But we would be a beneficiary indirectly, because some
 of our partners would hopefully be recipients of it, and therefore, put in additional capacity. And so, on that sort of
 indirect basis, we would have a benefit.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Harsh V. Kumar
 Analyst, Piper Sandler & Co.                                                                                                                                                                                                                              Q
@@ -873,31 +967,38 @@ you're saying June performance will be similar to March, I assume on a year-on-y
 should be down about 2-something-odd-percent. Is that a fair way? And then, my question that I wanted to ask –
 maybe another one for Tim was where do you think is the largest opportunity in your services offering? I mean,
 you're doing a great job. You just set a record, but surely there must be areas where you think you can do better.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
+
+
+
+                                                                                                                                                                                                                                                             18
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                                                                          Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                                                                                 04-May-2023
 
 Luca Maestri
 Chief Financial Officer & Senior Vice President, Apple, Inc.                                                                                                                                                                                               A
 Yeah. So, to your question around the June performance, yes, on a year-over-year basis, so comparable to the
 March quarter on a year-over-year basis.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 Harsh, I think we can do better on everything. And so, I wouldn't just point to one of them. If you look at the
 number of active devices and the growth of active devices, I think our services are underpenetrated in a number
 of different ways. And so, the way that I look at it is there is opportunity in many of them.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Harsh V. Kumar
 Analyst, Piper Sandler & Co.                                                                                                                                                                                                                              Q
 Understood. Thanks, Tim.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Timothy Donald Cook
 Chief Executive Officer & Director, Apple, Inc.                                                                                                                                                                                                            A
 Yeah.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Suhasini Chandramouli
 Head-Investor Relations, Apple, Inc.
@@ -907,10 +1008,17 @@ enter confirmation code 4934362 followed by the pound sign. These replays will b
 5:00 PM Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at 408-
 862-1142 and financial analysts can contact me with additional questions at 408-862-5119. Thanks again for
 joining us.
-EndOfBlock
+.....................................................................................................................................................................................................................................................................
 
 Operator: Once again, this does conclude today's conference. We do appreciate your participation.
 
+
+
+
+                                                                                                                                                                                                                                                             19
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Apple, Inc. (AAPL)                                                                                                                                        Corrected Transcript
+Q2 2023 Earnings Call                                                                                                                                                         04-May-2023
 
 
 
@@ -934,5 +1042,10 @@ Operator: Once again, this does conclude today's conference. We do appreciate yo
 
  The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
  other trademarks mentioned are trademarks of their respective companies. All rights reserved.
- FactSet CallStreet, LLC
+
+
+
+
+                                                                                                                                                                                               20
+1-877-FACTSET www.callstreet.com                                                                                  Copyright © 2001-2023 FactSet CallStreet, LLC
 
