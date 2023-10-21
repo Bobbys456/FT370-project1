@@ -4,6 +4,7 @@ from earnings_questions import getQAs
 from LM_analysis import LM_text
 import os
 import nltk
+from cfo_ceo import CFO_CEO
 
 
 company = 'ntla'
@@ -33,6 +34,8 @@ def main():
         print('Prepared Remarks\n')
         text = file.read()
         LM_text(text)
+
+    CFO_CEO(dfa)
         
 
 def parse_earnings(company): 
