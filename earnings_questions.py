@@ -15,7 +15,15 @@ def getQAs(company):
     #remove the endof block tags misplaces at the end of pages rather than at the end of speech blocks 
     text = re.sub(r'\s{10,}(EndOfBlock)', '', text)
 
-    #Removes everything that isnt questions and answers
+    #takes the prepared remarks
+    prepared = re.findall(r'[\s\S]+QUESTION AND ANSWER SECTION', text)
+    prepared = re.sub(r'[\s\S]+MANAGEMENT DISCUSSION SECTION[\s\S]+?EndOfBlock','', prepared[0])
+    prepared = re.sub(r'QUESTION AND ANSWER SECTION','EndOfBlock', prepared)
+    with open('data/pre.txt', 'w') as file: 
+        file.write(prepared)
+
+
+    #Removes the prepared remarks
     text = re.sub(r'[\s\S]+QUESTION AND ANSWER SECTION', '\n\n\n\n\n\n', text)
 
     #remove occurences of ...
@@ -40,15 +48,17 @@ def getQAs(company):
     #this one for apple works maybe not netfilx: \n\n([A-Z]\w{2,}\s[\w\s.]+\n)([\w\s&/-]+),([\w\s&,.-]+)\s+(Q\n)([\s\S]+?)(EndOfBlock) this one has glitches in the netfix one now 
 
 
-
-    answers = re.findall(r'\n([\w \.]+)\n([\w, \.&-]+)(A)\n([\s\S]+?)EndOfBlock', text)
-    questions = re.findall(r'\n([\w \.]+)\n([\w, \.&-]+)(Q)\n([\s\S]+?)EndOfBlock', text)
+    prepared_remarks = re.findall(r'\n([\w \.-]+)\n([\w, \.&-]+)\n([\s\S]+?)EndOfBlock', prepared)
+    answers = re.findall(r'\n([\w \.-]+)\n([\w, \.&-]+)(A)\n([\s\S]+?)EndOfBlock', text)
+    questions = re.findall(r'\n([\w \.-]+)\n([\w, \.&-]+)(Q)\n([\s\S]+?)EndOfBlock', text)
 
     dfa = pd.DataFrame(answers, columns=['person', 'title', 'type', 'text'])
     dfq = pd.DataFrame(questions, columns=['person', 'title', 'type', 'text'])
+    dfp = pd.DataFrame(prepared_remarks, columns=['person', 'title', 'text'])
 
     dfa = dfa.stack().str.strip().unstack()
     dfq = dfq.stack().str.strip().unstack()
+    dfp = dfp.stack().str.strip().unstack()
 
 
 
@@ -56,7 +66,8 @@ def getQAs(company):
 
     print(dfa)
     print(dfq)
+    print(dfp)
 
     dfq.to_excel("data/output.xlsx")
 
-    return dfq, dfa
+    return dfq, dfa, dfp

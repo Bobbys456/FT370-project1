@@ -110,4 +110,7 @@ def LM_text(text):
     for key, value in data.items():
         print(f"{key:{max_key_length}} : {value}")
 
+    print('-'* 30)
+    print('\n' * 2)
+
     return dict(zip(OUTPUT_FIELDS, output_data))

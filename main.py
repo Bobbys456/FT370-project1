@@ -8,26 +8,34 @@ import nltk
 company = 'ntla'
 
 def main():   
-    dfq, dfa = parse_earnings(company)
+    dfq, dfa, dfp = parse_earnings(company)
 
     #create single txt docs for all text in questions and answers seperately 
     create_txt(dfq, 'q')
     create_txt(dfa, 'a')
+    create_txt(dfp, 'p')
 
     #performs LM analysis on answers text
     with open(os.path.join('data', 'LM', 'answers.txt')) as file: 
+        print('\n Answers')
+        text = file.read()
+        LM_text(text)
+    
+    with open(os.path.join('data', 'LM', 'prepared_remarks.txt')) as file: 
+        print('\n Prepared Remarks')
         text = file.read()
         LM_text(text)
         
 
 def parse_earnings(company): 
-    dfq,dfa = getQAs(company)
+    dfq,dfa, dfp = getQAs(company)
 
     #store the results as csv to avoid redundant computation
     dfq.to_csv(os.path.join('data', company + '_questions.csv'))
     dfa.to_csv(os.path.join('data', company + '_answers.csv'))
+    dfp.to_csv(os.path.join('data', company + '_prepared.csv'))
 
-    return dfq, dfa
+    return dfq, dfa, dfp
 
 def create_txt(df, type):
     output = ''
@@ -37,10 +45,12 @@ def create_txt(df, type):
     if type=='a': 
         with open(os.path.join('data','LM', 'answers.txt'), 'w') as file: 
             file.write(output)
-    else: 
+    elif type =='q': 
         with open(os.path.join('data','LM', 'questions.txt'), 'w') as file: 
             file.write(output)
-
+    else: 
+        with open(os.path.join('data','LM', 'prepared_remarks.txt'), 'w') as file: 
+            file.write(output)
 
 
 main()
