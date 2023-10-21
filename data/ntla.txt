@@ -1,0 +1,1246 @@
+                                                        Corrected Transcript
+
+
+
+
+23-Feb-2023
+
+Intellia Therapeutics, Inc.              (NTLA)
+Q4 2022 Earnings Call
+
+
+
+
+                                                           Total Pages: 23
+1-877-FACTSET www.callstreet.com   Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+
+
+CORPORATE PARTICIPANTS
+Ian Karp                                                                                                                           Laura Sepp-Lorenzino
+Senior Vice President-Investor Relations & Corporate Communications,                                                               Executive Vice President & Chief Scientific Officer, Intellia
+Intellia Therapeutics, Inc.                                                                                                        Therapeutics, Inc.
+John M. Leonard                                                                                                                    Glenn Goddard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                         Executive Vice President & Chief Financial Officer, Intellia Therapeutics,
+                                                                                                                                   Inc.
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics,
+Inc.
+......................................................................................................................................................................................................................................................
+
+
+
+OTHER PARTICIPANTS
+Maury Raycroft                                                                                                                     Raju Prasad
+Analyst, Jefferies LLC                                                                                                             Analyst, William Blair & Co. LLC
+Gregory Harrison                                                                                                                   Dae Gon Ha
+Analyst, BofA Securities, Inc.                                                                                                     Analyst, Stifel, Nicolaus & Co., Inc.
+Swapnil Malekar                                                                                                                    Debjit Chattopadhyay
+Analyst, Piper Sandler & Co.                                                                                                       Analyst, Guggenheim Securities LLC
+Terence C. Flynn                                                                                                                   Richard Law
+Analyst, Morgan Stanley & Co. LLC                                                                                                  Analyst, Credit Suisse Securities (USA) LLC
+Lisa Walter                                                                                                                        Jay Olson
+Analyst, RBC Capital Markets LLC                                                                                                   Analyst, Oppenheimer & Co., Inc.
+Yanan Zhu                                                                                                                          Brian Cheng
+Analyst, Wells Fargo Securities LLC                                                                                                Analyst, JPMorgan Securities LLC
+Shrunatra Mishra                                                                                                                   Joseph Thome
+Analyst, Goldman Sachs (India) Securities Pvt Ltd.                                                                                 Analyst, Cowen & Co. LLC
+Rick Bienkowski
+Analyst, Cantor Fitzgerald & Co.
+
+
+
+
+                                                                                                                                                                                                                                                  2
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+
+
+MANAGEMENT DISCUSSION SECTION
+Operator: Good morning and welcome to the Intellia Therapeutics Fourth Quarter and Full Year 2022 Financial
+Results Conference Call. My name is Drew and I will be your conference operator today. Following formal
+remarks, we will open the call up for a question-and-answer session. This conference is being recorded at the
+company's request and will be available on the company's website following the end of the call. As a reminder, all
+participants are currently in a listen-only mode. [Operator Instructions]
+
+I will now turn the conference over to Ian Karp, Senior Vice President of Investor Relations and Corporate
+Communications at Intellia. Please proceed.
+......................................................................................................................................................................................................................................................
+
+Ian Karp
+Senior Vice President-Investor Relations & Corporate Communications, Intellia Therapeutics, Inc.
+Thank you, operator and good morning, everyone. Welcome to Intellia Therapeutics fourth quarter and full year
+2022 earnings call. Earlier this morning, Intellia issued a press release outlining the company's progress this
+quarter, as well as topics for discussion on today's call. This release can be found on the Investors & Media
+section of Intellia's website at intelliatx.com. This call is being broadcast live, and a replay will be archived on the
+company's website.
+
+At this time, I would like to take a minute to remind listeners that during this call, Intellia management may make
+certain forward-looking statements and ask that you refer to our SEC filings available at sec.gov for discussion of
+potential risks and uncertainties. All information presented on this call is current as of today, and Intellia
+undertakes no duty to update this information unless required by law.
+
+Joining me from Intellia are Dr. John Leonard, Chief Executive Officer; Dr. David Lebwohl, Chief Medical Officer;
+Dr. Laura Sepp-Lorenzino, Chief Scientific Officer; and Glenn Goddard, Chief Financial Officer. John will begin
+with an overview of recent business highlights. David will provide an update on our clinical programs. Laura will
+recap the company's R&D progress across our pipeline, and Glenn will review Intellia's financial results for the
+fourth quarter and full year 2022. John will then offer some concluding remarks before we open up the call for
+Q&A.
+
+With that, I'll now turn the call over to John.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.
+Thank you, Ian, and thank you all for joining us this morning. At Intellia, we're advancing our leadership position
+as the industry's most innovative genome editing company with the broadest and deepest toolbox of novel editing
+and delivery solutions. 2022 proved to be another outstanding year for Intellia, with several significant clinical
+milestones achieved across our pipeline. Having demonstrated human proof-of-concept for first two in vivo clinical
+candidates NTLA-2001 and NTLA-2002, we're now two for two. Notably, we've dosed more than 50 patients with
+our in vivo CRISPR based therapies in ongoing clinical studies with durability and safety data now out two years
+in the earliest patients. These accomplishments reflect steady execution against our core strategy to harness the
+immense power of CRISPR based technologies, both for in vivo and ex vivo applications.
+
+
+
+
+                                                                                                                                                                                                                                                  3
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Building on last year's strong momentum, we've already hit the ground running this year. We're pleased to share
+today that we initiated the Phase 2 portion of the NTLA-2002 study outside of the US. Recently, we also
+submitted an IND application to the FDA to enable US patient enrollment in this trial. We're highly encouraged by
+the rapid progress we have made in just the past few months and expect to hear back from the FDA in the coming
+weeks.
+
+Looking ahead for NTLA-2001, we're poised to submit an IND application for a pivotal trial for the cardiomyopathy
+manifestation of ATTR amyloidosis mid-year for the trial initiation anticipated by the end of the year, subject of
+course to regulatory feedback. Importantly, we look forward to presenting new interim clinical updates from both
+ongoing NTLA-2001 and NTLA-2002 first-in-human Studies this year.
+
+Turning to our research pipeline, we are advancing new platform capabilities to the clinic. This includes our
+CRISPR based in vivo targeted gene insertion technology and a first of its kind allogeneic cell engineering
+solution designed to avoid both T cell and NK cell mediated rejection.
+
+Additionally, we're leading the development of new gene editing and delivery modalities, which will drive further
+pipeline growth and allow us to reach a greater number of patients with our genetic medicines. With that
+introduction, I'll hand the call over to our Chief Medical Officer, David Lebwohl, who will review NTLA-2001 and
+NTLA-2002's progress in greater detail and outline updates across our clinical pipeline. David?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.
+Thanks, John, and welcome, everyone. I'll begin with a review of NTLA-2001, a potential single-dose treatment
+that may halt and reverse the disease for people living with ATTR amyloidosis. In November, we shared
+additional positive interim results from the cardiomyopathy arm of the ongoing Phase 1 clinical trial of NTLA-2001.
+These data, which we presented in a late-breaking oral presentation at the American Heart Association scientific
+sessions, demonstrated consistent, greater than 90% serum TTR reduction following a single-dose of NTLA-
+2001. The deep reductions were sustained with patient follow-up, ranging from four to six months as of the data
+cutoff date. NTLA-2001 was generally well-tolerated in all 12 patients. 2 of the 12 patients reported transient
+infusion reactions, which resolved quickly and which were the only observed treatment related adverse events.
+No clinically significant laboratory abnormalities were observed at either dose level.
+
+We continue to believe this deep, durable and consistent levels of protein reduction support NTLA-2001's
+potential to be a best-in-class TTR lowering agent regardless of disease manifestation. In the last few months, we
+completed the planned enrollment for the dose expansion portion of the cardiomyopathy and polyneuropathy arm.
+Data from these cohorts will be used to inform our dose selection decision for subsequent pivotal studies.
+
+For ATTR-CM, we plan to submit an IND application midyear and plan to initiate a global pivotal study by year-
+end subject to regulatory feedback. Additionally, we plan to present new and important interim clinical data later
+this year, including longer term safety and durability data, as well as emerging clinical endpoints. For hereditary
+ATTR amyloidosis with polyneuropathy, we are continuing to prepare for a Phase 3 study, including discussions
+with regulatory authorities and look forward to presenting additional clinical data from the ongoing Phase 1 study.
+
+I'll turn now to our second in vivo program, NTLA-2002. Our investigational therapy for the treatment of hereditary
+angioedema for HAE. We shared additional positive results from the ongoing Phase 1/2 clinical study at the
+American College of Allergy, Asthma and Immunology 2022 Annual Scientific Meeting this past November. The
+data presented demonstrated that a single dose of NTLA-2002 led to robust reductions in plasma kallikrein and
+HAE attack rates. With the 25 milligram and 75 milligram cohort, these deep reductions in plasma kallikrein were
+
+
+                                                                                                                                                                                                                                                  4
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+sustained in all patients through data cutoff, which range from week 16 to week 32. Importantly, all patients dosed
+in these two cohorts who completed the pre-specified 16-week observation period have maintained an attack-free
+status as of the data cutoff date. Patients in the 50 milligram cohort had not yet completed the primary 16-week
+observation period before the presentation cutoff date, and so we look forward to presenting attack rate data on
+this cohort later this year.
+
+At all three dose levels, NTLA-2002 was generally well-tolerated, and the majority of adverse events were mild in
+severity. The most frequent adverse events were infusion-related reactions, which were mostly grade one and
+resolved within one day. No dose limiting toxicities or serious adverse events or adverse events of grade 3 or
+higher and no clinically significant laboratory abnormalities were observed. We believe these data speak to NTLA-
+2002's potential to address the significant disease burden faced by people living with HAE by permanently
+preventing the debilitating swelling attacks with a single dose. We look forward to presenting additional data from
+the Phase 1 portion of the study in 2023, including longer term safety, durability and attack rate data across all
+three cohorts. As John mentioned, it's been a very productive first two months of the year, especially for the
+NTLA-2002 program.
+
+In January, Intellia was awarded the Innovation Passport in the United Kingdom for NTLA-2002, which provides
+entry to UK's Innovative Licensing and Access Pathway. We're pleased to receive the ILAP designation, which
+aims to accelerate time to market and facilitate patient access to innovative medicines.
+
+Today, we announce that Intellia has initiated patient screening in the Phase 2 portion of the study in New
+Zealand. The Phase 2 portion, a randomized placebo controlled expansion study is evaluating two doses, 25
+milligrams and 50 milligrams. We anticipate expanding country and site participation in the coming months. To
+support inclusion of patients in the United States, Intellia recently submitted an IND application to the FDA, and
+we look forward to providing you with an update on the status of that application's review. As NTLA-2001 and
+NTLA-2002 continue to progress, we believe we are moving closer to setting a new standard of care for people
+living with these serious diseases.
+
+I'll now hand over the call to Laura, our CSO who will provide updates on our R&D efforts and platform
+advancements.
+......................................................................................................................................................................................................................................................
+
+Laura Sepp-Lorenzino
+Executive Vice President & Chief Scientific Officer, Intellia Therapeutics, Inc.
+Thank you, David. We're entering the next stage of growth at Intellia as we advance new platform capabilities to
+the clinic, such as in vivo gene insertion, our allogeneic technology and base editing. For targeted in vivo gene
+insertion, by progressing both wholly-owned and partner programs, leveraging our modular insertion platform.
+This includes NTLA-3001, our wholly-owned candidate for the treatment of AATD-associated lung disease, for
+which we plan to submit an IND or IND equivalent application in the second half of this year.
+
+In parallel, we're advancing IND-enabling activities for NTLA-2003, our third in vivo knockout candidate as a
+treatment for the liver manifestation of AATD. In collaboration with Regeneron, we're also making important
+progress advancing our Factor IX insertion program for people with hemophilia B.
+
+Turning to our ex vivo pipeline, we're advancing multiple programs, ours and those shared with partners, utilizing
+our proprietary allogeneic platform. These platform capabilities demonstrate the already broad opportunity of our
+robust research engine. But there is still more untapped potential. And so, we're further pushing the boundaries of
+what therapeutic gene editing can do. We had made rapid and significant headway with the development of our
+proprietary DNA writing technology. Since the acquisition of Rewrite Therapeutics, we have implemented and
+
+
+                                                                                                                                                                                                                                                  5
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+expanded the platform, leveraging Intellia's genome editing toolbox and expertise, and demonstrated robust
+performance and versatility. We're excited by the potential of our newest platform capability, offering us the
+potential to target diseases beyond those currently being explored in our pipeline.
+
+I'll now hand over the call to Glenn, our CFO, who will provide an overview of our fourth quarter and full-year 2022
+financial results.
+......................................................................................................................................................................................................................................................
+
+Glenn Goddard
+Executive Vice President & Chief Financial Officer, Intellia Therapeutics, Inc.
+Thank you, Laura. Good morning, everyone. Intellia continues to maintain a strong balance sheet that allows us to
+execute on our pipeline and platform. Our cash, cash equivalents and marketable securities were $1.3 billion as
+of December 31, 2022, compared to $1.1 billion as of December 31, 2021. The increase was driven by $337.9
+million from our December follow-on offering, $227.9 million of net proceeds from the company's At-the-Market
+program and $17.2 million in proceeds from an employee-based stock plan. The increase was offset in part by
+cash used to fund operations of approximately $372.8 million in the acquisition of Rewrite Therapeutics for $45
+million. Our collaboration revenue increased by $0.7 million to $13.6 million during the fourth quarter of 2022,
+compared to $12.9 million during the fourth quarter of 2021.
+
+Our R&D expenses increased by $28.9 million to $100 million during the fourth quarter of 2022, compared to
+$71.2 million during the fourth quarter of 2021. This increase was mainly driven by the advancement of our lead
+programs and personnel growth to support these programs. Our G&A expenses increased by $1.5 million to
+$23.6 million during the fourth quarter of 2022, compared to $22.1 million during the fourth quarter of 2021. This
+increase was primarily related to employee-related expenses. Finally, we expect our cash balance to fund our
+operating plans beyond the next 24 months. With that, I will now turn the call back over to John for closing
+remarks.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.
+Thank you, Glenn. As you can see, we're making steady progress towards executing against our strategic
+priorities, which are focused on late stage development of our CRISPR-based therapies while continuing to
+innovate and bring forth new platform capabilities. This year, we look forward to advancing the Phase 2 portion of
+the NTLA-2002 Study and expect to add US clinical sites. We're also focused on preparing for the initiation of a
+global pivotal trial NTLA-2001 for patients with a cardiomyopathy manifestation of ATTR amyloidosis. For both
+programs, we plan to provide further updates in the coming months. As we continue to deliver on the promise of
+gene editing, we maintain our broader vision for Intellia by rapidly expanding the reach of our platform to
+accelerate the impact on patients.
+
+With that, we'd be happy to answer any questions. Operator, you may now open the call for Q&A.
+
+
+
+
+                                                                                                                                                                                                                                                  6
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+
+
+QUESTION AND ANSWER SECTION
+Operator: We will now begin the question-and-answer session. [Operator Instructions] The first question comes
+from Maury Raycroft with Jefferies. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Maury Raycroft
+Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
+Hi. Good morning. Congrats on the progress and thanks for taking my question. I was going to ask about the HAE
+IND, wondering if you're commenting anymore on what exactly FDA requested to be in the IND and what you
+included in the IND for the Phase 2. And do you expect a typical IND acceptance timeline for that program?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Maury, good morning. Thanks for your question. It's pretty standard application and aligns with some of the
+comments we've made in prior communications about what FDA is looking for. I think where this IND may differ
+from other INDs is that we're pretty far along from a clinical point of view and we were able to supply clinical
+information from the ongoing study done outside the United States. So, we were, of course, careful to provide a
+very, very careful and complete update of that information. But otherwise, I'd say it's pretty standard stuff.
+......................................................................................................................................................................................................................................................
+
+Maury Raycroft
+Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
+Okay. And maybe one follow-up. Just if you could talk a little bit more about the Phase 2 design and types of
+patients and how you can leverage the data for a potential streamlined, pivotal study in HAE?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+So, David, do you want to address that?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. So, the Phase 2, and showing it publicly, it's in our slide. But basically, it's three arms. There'll be an arm of
+25 milligrams, an arm of 50 milligrams and a placebo arm and in 5 of the 10, 10 in 5 patients. And the idea here is
+to select the dose for other pivotal study. We have obviously some very good information already from the Phase
+1 being really excellent results at all three doses. 50 and 70 looked very much the same in terms of
+pharmacokinetics. So, we did choose the lower dose possibly being a safer dose. And the 25-milligram dose as
+well is quite good but did look a little different in terms of pharmacokinetics.
+
+So, that's really the trial. It will be informing our Phase 3, which we are already thinking about the design and
+getting ready for. It will contribute to the eventual BLA by the additional information about patients. But that's the
+main use of the trial.
+......................................................................................................................................................................................................................................................
+
+Maury Raycroft
+Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
+Okay. Thanks for taking my questions. I'll hop back in the queue.
+
+
+                                                                                                                                                                                                                                                  7
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+
+Operator: The next question comes from Greg Harrison with Bank of America. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Gregory Harrison
+Analyst, BofA Securities, Inc.                                                                                                                                                                                                             Q
+Hey. Good morning and thanks for taking the question. I wanted to ask how you're thinking about the future of the
+cure to sickle cell landscape, now that some competitors have discontinued investment in the space. What do you
+think will be the next step beyond the CRISPR and Vertex approach and how do you win there?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. Thanks for the question. It's an important one and one that we certainly thought about even from the early
+stage of the company. I think what we've seen is that, sickle cell is curable. I mean, that question, in our judgment
+has been answered. And I think that's great news for patients. The challenge for those patients however, is the
+nature of that cure. The editing, I think, is in hand. It's the application of that editing that we're – where we believe
+we can make significant progress.
+
+So, we've been focused really since the outset as we thought about that disease, doing it in an in vivo setting
+where one can avoid a bone marrow transplant and the morbidity and occasional mortality that comes with that.
+That's a more general solution for patients. And in fact, I think it's a very, very broad based solution, even for
+patients outside the standard Western markets where most patients with sickle cell reside.
+
+So, that's where we've focused our efforts. And from our perspective, based on what we've seen, that space is
+wide open and we intend to get there first.
+......................................................................................................................................................................................................................................................
+
+Gregory Harrison
+Analyst, BofA Securities, Inc.                                                                                                                                                                                                             Q
+Okay. That's helpful. Thanks again for taking the question.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Joon Lee with Truist Securities. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Hi. Good morning. This is [ph] Mehdi (00:21:03) on for Joon. So, I will follow up on the previous question and
+asking, like what is your strategy now? Is that you're following the same type of edits for sickle cell and what
+would be your delivery mechanism? And then, I have a quick follow-up question.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Well, thanks. Again, our strategy hasn't changed for some years now. We've always been focused on the in vivo
+setting. Just to be clear, with respect to the Novartis news, that was an ex vivo only application and when that has
+been followed by them and others in the space. For us, we've always focused on the in vivo setting. From an
+editing point of view, we think there's any number of potential edits that can be successful in our particular
+approach. There's not one that we've disclosed but what I think we've learned is that the disease is curable. So,
+it's really a matter of delivery and making sure that, that's done in a way that is robust and works well for patients.
+......................................................................................................................................................................................................................................................
+
+
+
+                                                                                                                                                                                                                                                  8
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+
+                                                                                                                                                                                                                                           Q
+Awesome. And could you please provide some color on your [indiscernible] (00:22:24) writing system? Any idea?
+Is it similar to existing techniques out there like PACE [indiscernible] (00:22:35) PE or is it more similar to
+homologous recombination? Any color in that domain would be appreciated. Thank you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. We're not disclosing the specifics. We think about it in terms of capabilities, which is the resulting gene
+edits. In our case, we're most interested in what the resulting change in the DNA is and the specifics of how you
+get there. The particular enzyme system is proprietary and one that [indiscernible] (00:23:06) could develop.
+
+So, we're excited about our ability to introduce the intended changes and do that with great fidelity and great
+specificity and great activity frankly. So, as we go on and the results mirrored it, we will be in a position to share
+more about the progress we're making. But needless to say, as Laura made clear in her remarks, we're very, very
+excited about where we are and where we're headed.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Thanks for taking our questions.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Swapnil Malekar with Piper Sandler. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Swapnil Malekar
+Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
+Hey. Good morning. Thank you for taking my question. So, you had previously mentioned the likelihood of having
+an interim readout for the pivotal trial in ATTR cardiomyopathy. So, I was just wondering, like how the new
+emerging data and the new emerging clinical endpoints that you mentioned in the press release are informing this
+decision of an interim analysis?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David, do you want to address that? Just to be clear, we're not talking about sharing interim results of a pivotal
+trial. Maybe, David, you could just clarify what our plans are with data disclosures for the ongoing study.
+......................................................................................................................................................................................................................................................
+
+Swapnil Malekar
+Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
+No, that's – yeah. Sorry, I mean, just in terms of clinical trial design, if there will be an interim analysis? Yeah.
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Okay. Yeah. So, for the Phase 3, as you know, we're designing that now. We're not talking about the exact
+details, but we have said that we think the important endpoints are cardiovascular events and mortality. And
+you've seen some of the other trials out there. It does have to be a large trial to study these questions. We have a
+big advantage as we start to do our trial and that we'll – may see early results from the other trials, which will help
+
+
+                                                                                                                                                                                                                                                  9
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+inform how we design this trial. But we are considering whether an interim analysis would be valuable here.
+Because we have the best reduction in TTR, we also expect to have the best efficacy in that trial. And because of
+that, the trial could be positive on interim analysis, and we're looking carefully at that possibility.
+......................................................................................................................................................................................................................................................
+
+Swapnil Malekar
+Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
+Got it. And one follow-up I had is, so you mentioned that there have been like more than 50 patients dosed across
+two programs with some of the patients reaching two-year mark. So, I was just wondering if there were any
+relapses in TTR or of kallikrein, any of the patients that, that required redosing. Thanks for taking my questions.
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. I think what we've seen in our studies is this effect seems to be permanent. We see the same reduction
+across time with these drugs. So, based on the mechanism and based on what we're seeing clinically now, we do
+expect the effects to be permanent.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Gena Wang with Barclays. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Hi. Good morning. This is [indiscernible] (00:26:05) on for Gena. Thank you for taking our questions. Can you
+hear me okay?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+We can.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Awesome. Thank you. For NTLA-2002, are you able to disclose how recently you submitted the IND and how will
+you communicate to the investor community the outcome? Can we expect a press release?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+We're not sharing when we submitted the IND. We're giving a broad update today. And so, it's part of that
+process. But we will, of course, share the results of the FDA review when we have that information, just as we
+promised, from the outset here. So, stay tuned. And, hopefully we'll have some favorable results to report.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Okay. Great. Thank you. And I had a very quick follow-up. On NTLA-2001, in the prepared remarks, I think David
+mentioned to expect new emerging data on other endpoints like later in 2023. Can you elaborate, what other
+endpoints that we can expect data on. That would be great. Thank you so much.
+......................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                              10
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David, what lies in store?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. So, what we're looking at, the patients who have been longest on the trial where we – we would possibly
+have the most information of the patients with polyneuropathy. Some things we've looked at most patients include
+the NIS score, the NIS, which is a slightly different from the mNIS+7, but gives similar information on the
+neuropathy symptoms. Another thing we're looking at is cardiac amyloid. This is present both in polyneuropathy
+patients and in the CM patients. So, those are the type of things that we may have enough information on later
+this year.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Terence Flynn with Morgan Stanley. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Terence C. Flynn
+Analyst, Morgan Stanley & Co. LLC                                                                                                                                                                                                          Q
+Great. Thanks so much for taking the questions. I was just wondering, as you think broadly about the pipeline. I
+know you did the Rewrite Therapeutics deal. But just thinking more broadly, do you think there's a need for any
+additional business development or do you think you have all the tools you need at this point? John.
+
+And then one kind of second question, which again, I'm not sure if it's applicable or not, but yesterday CRO
+announced some supply chain issues with non-human primates. And I was just wondering if that might impact any
+of your preclinical work or timelines? Thank you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. Thanks for the question. Yeah, we read the same news and have inquired. We're not aware today that
+there's any impact on the work that we're doing, and we hope that, that doesn't change. But that's the current
+situation. With respect to BD, we think about it in two ways, I guess. You asked about it in terms of tools, an
+important part of our strategy is to have a toolbox that is complete. And we think about that in terms of the
+capabilities, in terms of those different changes that we want to be able to introduce [ph] into (00:29:12) DNA. We
+think we've got a great toolbox. We watch what's happening on the outside. We have our own scientific efforts
+internally and look for new capabilities that we think would augment the toolbox. At this point, we're pretty satisfied
+with the things that we want to do. But of course, we'll keep our eyes open. I think the broader approach to BD for
+us is just thinking about deploying that toolbox, not bringing things into it.
+
+What we're seeing is, all kinds of wonderful opportunities, some of which we're advancing ourselves, some of
+which we're advancing with collaborators. And in the last 18 months, we've had four different collaborators that –
+for different collaborations we've struck to augment the work that we do in our own pipeline. So, whether it's
+ophthalmology, with SparingVision, autoimmune disease with Kyverna, our spinout with AvenCell or work in NK
+cells with ONK, these are really exciting applications of the capabilities already in-hand and we expect to do more.
+And I think, if you step back and look at our pipeline and bear in mind the clinical rights that we have, commercial
+rights that we have from each of those different collaborations, you see that this is especially for a company like
+ours, of this size, a wonderful pipeline that's replete with opportunities.
+
+
+
+
+                                                                                                                                                                                                                                              11
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+So, [ph] BDS (00:30:50) toolbox, good with a lot of internal work going to make sure that it remains unsurpassed.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Luca Issi with RBC. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Lisa Walter
+Analyst, RBC Capital Markets LLC                                                                                                                                                                                                           Q
+Oh, great. Thanks for taking our questions and congrats on all the progress. This is Lisa on for Luca. Just one on
+the cardiomyopathy pivotal trial. Just wondering if we should expect two trials here? Maybe one with the six-
+minute walk test as the primary end point and another with cardiovascular-based outcome study. And maybe on
+sickle cell disease, can you expand further on why Novartis decided to discontinue the program? And if there is
+any clinical data available, will you be in a position to share it? Thank you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. I can't speak to Novartis' position other than they've been going through what appears to be a broad review
+of their pipeline and their different approaches to it. I would just remind you that for us, that has been a Novartis-
+only program, one that we've not directly participated in. We've provided reagents to them some years ago. We've
+always believed that the future lies with the in vivo approaches, and that's been a focus of the work that we do.
+I'm sure they looked at the ex vivo space and may have had some of the same realizations that we had some
+years ago. So, I think it's apparent where that space will ultimately go. But David, maybe you can ask or answer
+the question about pivotal trials. How many do you actually want to do?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+We're – again, we're not telling the exact program, but we don't think that dividing those things into two trials is a
+great idea going forward. So, the six-minute walk test, the more questions about how valuable it is to
+understanding how patients are doing. And you've seen that in some of the recent trials in amyloidosis. But again,
+we think the important end points of cardiovascular events and mortality. And that's what the patients are
+interested in, the doctors are interested in, the payers are interested in. So, it's really what – we're most
+interested. The regulators, of course, are very interested in those factors.
+......................................................................................................................................................................................................................................................
+
+Lisa Walter
+Analyst, RBC Capital Markets LLC                                                                                                                                                                                                           Q
+Great. Thanks for taking our question.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Yanan Zhu with Wells Fargo. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Yanan Zhu
+Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
+Hi. Thanks for taking my question. On the HAE program, I was wondering what's the reason or rationale for
+having this placebo arm in this Phase 2 study? And also, in terms of the goal of the treatment for this kind of one-
+time treatment approach, are you – do you think a complete cure is kind of the expected outcome for this type of
+approach or there could be a different kind of outcome and still appropriate for this approach? Thanks.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+                                                                                                                                                                                                                                              12
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+David, what role does placebo play and what's the aspiration?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Sure. So, the placebos are – having placebo controlled trials are the gold standard in randomized trials. Of
+course, don't expect them to benefit in the placebo arm. But of course, we've also seen there can be a strong
+placebo effect in many trials and that's the risk of not having that arm to compare – not to compare, it's not a
+comparative trial to Phase 2 but it's a reference arm to see that what we expect is to have a very strong effect in
+both of the doses, 25 milligram and 50 milligram and to have little or no effect on the attack rate in the placebo
+arm. And that will help again inform and help us design the pivotal trial and choose the dose.
+
+Should mention that the patient placebo arm will be offered to cross over and get the active drug once their
+evaluation is completed. And of course, we do this because of the contribution they're making to our study and
+their desire to get this type of therapy as part of their potential cure going to the second part of that. This idea of a
+functional cure is what the idea that you could get to zero attacks in patients with this single treatment. And
+whether we can achieve that is it's too early to say. We're very encouraged by the early results. We are getting
+deeper reductions in kallikrein [indiscernible] (00:35:47) with the best agents that are out there. So, it is possible
+that this will also lead to better efficacy. And again, this aspiration to have a functional cure or to – patients to
+have no attacks after receiving our drug.
+......................................................................................................................................................................................................................................................
+
+Yanan Zhu
+Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
+Great. Thanks. If I could have a quick follow up on the cardiac amyloid. You mentioned that might be a readout for
+the NTLA-2001 program. Just wondering is the expectation that the cardiac amyloid will be resolving or that is the
+expectation that it is just stabilizing and no more additional amyloid addition? Thanks.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. This has been well established. Of course, there aren't therapies that get to the very low levels of TTR that
+we're able to achieve. But the idea we have and we hear from the key investigators in this area is that if you do
+get to low enough TTR levels, you will – the rate of amyloid deposition into organs will be so reduced that the
+equilibrium will be the other way. In other words, the removal of amyloid from the heart is greater than the addition
+of amyloid due to the small amount of TTR that would be in the blood at that point. So that's what we're hoping to.
+The idea then is a possible reversal of the heart disease by getting rid of that amyloid and that is our aspiration for
+that trial.
+
+And that is our aspiration for that trial.
+......................................................................................................................................................................................................................................................
+
+Yanan Zhu
+Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
+Great. Thank you for taking the questions.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Salveen Richter with Goldman Sachs. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Shrunatra Mishra
+Analyst, Goldman Sachs (India) Securities Pvt Ltd.                                                                                                                                                                                         Q
+                                                                                                                                                                                                                                              13
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Hi. This is Shrunatra on for Salveen. Thank you so much for the update. Could you provide some color on the
+nature of discussions that you're having with regulators regarding the global pivotal study for NTLA-2001 in both
+ATTR-CM and PN? And also regarding NTLA-2002, how confident are you regarding the IND acceptance and do
+you have any timelines in mind about when you'll get this information?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Maybe, David, you can address how we think about the pivotal and when we'll be in a position to share
+information. I just – with respect to the IND, I would say it this way. We've had a variety of interactions with
+various regulators, including the FDA in the run up to this. We believe that we're addressing the questions that
+they wanted us to address. It's not just the list of those questions, but it's the extent of the data that we've tried to
+provide that actually goes to making sure that we're not just checking boxes, but really answering questions and
+helping them to evaluate the product.
+
+Additionally, as I said at the outset, we've supplied clinical information, which I think is unique with respect to
+some of the other INDs that have played out over the last few years in the space. And we think that that's a
+helpful bit of information for the FDA to consider as they do their evaluation. So we look forward to the outcome.
+Obviously, it's subject to their review but we think we've done a good job of possibly supplying information. And as
+we've said with respect to timelines, when we have the information in terms of the outcome of that review, we will
+share it and everybody will know at the same time.
+
+David, do you just want to say a few words about how we approach the pivotal and when we'll be in a position to
+share that information?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. So, just what John said about all aspects of our – for the IND submission, another piece of that are clinical
+discussions that have gone on both in the pre-IND setting with regulators around the world and Europe. And with
+that, we have – we're coming forward with the design. We have the leading investigators in this area supporting
+us in designing this trial. And the point at which we'll have a [indiscernible] (00:40:15) trial, we'll have to do it
+around the time of the IND. We've said that in the middle of the year for the IND for NTLA-2001 and as well in
+Europe with the CPA applications that go on for that Phase 3 as well.
+
+So, that will be – and the other thing we've said is that the trial will start by the end of the year. So, that's sort of
+the time frames you have. As we have more details, we will share those with you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+I might add one important distinction for the listeners to keep in mind. With respect to NTLA-2001, which differs
+from the NTLA-2002 IND application, we're talking about an IND [ph] that will (00:41:00) pursue a pivotal trial. So,
+in some respect, it's not just in IND with all the preclinical work, it's also supplying the information that would typify
+into Phase 2 meeting with the FDA. So, we expect the NTLA-2001 application to be a very, very substantial filing
+when we in fact do it which is different from 2002 and it's certainly different from most of the other INDs in the
+space that have been for first-in-human application. So, as the year goes on, well, I'm sure we'll be talking more
+about this.
+......................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                              14
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Operator: The next question – go ahead. Okay. The next question comes from Rick Bienkowski with Cantor
+Fitzgerald. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Rick Bienkowski
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
+Hi everyone, good morning. Congrats on all the progress, and thanks for taking the questions. For the NTLA-2002
+program, a worldwide Phase 2 trial initiation looks to be a bit staggered with like outside the US opening first,
+while the IND application was submitted to the FDA. And so, my question is if the FDA does have any feedback
+on either trial design or endpoints in the study, as after the IND review? Are there any mechanisms to amend the
+trial protocol for sites outside the US after the trial has already started?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David, do you want to speak to that? I mean, I'll just remind everybody this is a Phase 2 study. It's not a pivotal
+trial. And so, some of the details are less consequential. But David, do you want to speak to that?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. Yeah. I should say that when you're submitting a trial around the world, different regulators will often have
+different ideas about details of a trial, usually not the big picture. So, it is very possible that there can be
+amendments to the trial that occur related to feedback either in the US or from outside the US. And sometimes,
+it's very helpful. We think they're good ideas. Sometimes, we just have to follow the directions for the various
+reasons. But the – yeah, that certainly could happen, but there is a good mechanism for doing that, which is the
+amendment process for the trial.
+......................................................................................................................................................................................................................................................
+
+Rick Bienkowski
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
+Right. Got it. Thank you. And a quick follow-up. So, there's a few novel technologies in their early pipeline now of
+gene writing, base editing, and proprietary LNPs. I guess it's difficult to get a sense of how far away all these
+technologies are from getting into the clinic or what sort of indications these technologies might be able to
+address? So, are there any time lines for when we may get some more substantial updates for the progress of
+these earlier stage technologies?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+We haven't guided to any particular products or pipelines. We've spoken generally in prior presentations about
+useful applications of base editing where we think it makes the most sense. That tends to fall primarily in the ex
+vivo setting where one is hoping to introduce many simultaneous knockouts, and we have very, very advanced
+work in that space. And we've talked a little bit about our allogeneic platform that we're very, very excited about.
+And so, I would encourage you to stay tuned with respect to future updates in that and where base editing may fit
+in, in that space, we'll see.
+
+With the gene writing approach, it's earlier days, but we're making really excellent progress in terms of getting
+very high levels of specificity and we're able to introduce the intended changes that we're looking to do. So as that
+moves along, we'll find what we think are the appropriate applications and talk more about that. But in the
+meanwhile, we're focused on progressing NTLA-2001 and NTLA-2002 and making sure that we continue to
+
+
+
+                                                                                                                                                                                                                                              15
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+demonstrate that any of these technologies really matter for patients in a meaningful way. And that's where we
+think we are with the current progress.
+
+So, more to come and we'll show those updates as appropriate.
+......................................................................................................................................................................................................................................................
+
+Rick Bienkowski
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
+Got it.
+......................................................................................................................................................................................................................................................
+
+Operator: [Operator Instructions] The next question comes from Raju Prasad with William Blair. Please go
+ahead.
+......................................................................................................................................................................................................................................................
+
+Raju Prasad
+Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
+Thanks for taking the question. Just kind of wondering the cadence of the IND submissions, why NTLA-2002 is
+going to come in ahead of NTLA-2001? Was it because as you referred to earlier, the NTLA-2001 application is
+larger? I'm just wondering because the durability and amount of data for the two years [indiscernible] (00:46:00)
+on the clinical side is much higher?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+It's really unrelated to what you're saying. It's NTLA-2002 is at the proper point to begin Phase 2. NTLA-2001 will
+be at the point to begin Phase 3 work. And to have the information necessary to support that NTLA-2001 IND,
+which again, I liken to an end of Phase 2 meeting, far more substantial filing than a typical first-in humans IND,
+getting the full complement of clinical information, which is not just the acute exposure and the short term editing
+results, but actually following these patients for some period of time is an important part of that application. And
+just the way the timelines work out.
+
+David, if you have anything to add to that, I mean, that's the essence of it.
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. Those are the important features of the timing.
+......................................................................................................................................................................................................................................................
+
+Raju Prasad
+Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
+Great. Maybe just a quick follow-up. Just wondering the rationale behind the ATM in Q4 on top of the follow on.
+Just wondering why? Thanks.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Glenn, do you want to speak to our fundraising?
+......................................................................................................................................................................................................................................................
+
+Glenn Goddard
+Executive Vice President & Chief Financial Officer, Intellia Therapeutics, Inc.                                                                                                                                                              A
+                                                                                                                                                                                                                                              16
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Sure. Yeah. We just – we thought at the end of Q3 of last year and early Q4 is an opportune time to use the
+program just based on how the stock was trading and volume. And then opportunity opened up in late November,
+December. To just follow on, we took advantage of that. So, was it preplanned to do it that way? It's just how
+things [ph] worked out (00:47:40).
+......................................................................................................................................................................................................................................................
+
+Raju Prasad
+Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
+Great. Thanks.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Dae Gon Ha with Stifel. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Dae Gon Ha
+Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
+Great. Thanks for taking our questions and congrats on all the progress. I'll just stick with the IND question again.
+So, with regards to the NTLA-2002, I guess, to what extent do you think you've fully addressed some of the FDA
+concerns and were obviously very limited to what's publicly disclosed from one of your competitor programs or
+peer companies. And to what extent is the depth and the extensive nature of your submission, so in the case of
+how many pages you submit? Will that be a limitation factor as it pertains to the review within that 30-day period?
+Thanks so much.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+I can't speak to the number of pages and how fast the various reviewers at the FDA read them. But – and that's
+not the metric that we use. Although, these applications tend to be very, very large, as you know, because there's
+a lot of information shared. But we try to address the questions as posed by the regulators. And I think an
+important thing to emphasize is it's not just data, but it's really testing the robustness of the system. And these are
+principles that apply not just to our space, but to drug development in general, whether you're doing small
+molecules, antibodies or whatever. We've tried to apply that kind of thinking, knowing from prior experience how
+the FDA thinks about this stuff.
+
+So with respect to other people, I can't address that. I don't know the work, the nature of it, et cetera. We'll see.
+The FDA, as they review it, I'm sure will pose questions to us. We'll do our best to answer them. But we don't
+expect to have major deficiencies in the IND. If there's smaller questions that they want clarification on, we will
+answer them as quickly and as robustly as we possibly can. But we think we have a full complement of
+information available.
+......................................................................................................................................................................................................................................................
+
+Dae Gon Ha
+Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
+John, just a naïve question. With regards to the IND review, is there something analogous to a PDUFA extension
+where they just need more time to review or does it have to be a binary yes or clinical hold?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+My understanding is that it's 30 days and you get a clearance or a hold. And then ask – if there is a hold, there's
+additional information provided by the FDA in terms of what they're looking for in a very formal way. And then
+
+
+
+
+                                                                                                                                                                                                                                              17
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+that's when you're in a position to best answer their follow-up. If it takes a little longer for them to go through the
+stuff, we'll see. But again, we believe that full complement of information has been provided to them.
+......................................................................................................................................................................................................................................................
+
+Dae Gon Ha
+Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
+Great. Thanks so much.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Sure.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Debjit Chattopadhyay with Guggenheim. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Debjit Chattopadhyay
+Analyst, Guggenheim Securities LLC                                                                                                                                                                                                         Q
+Hey. Good morning, all. Thanks for taking our question. Can you provide an update of how many patients have
+been treated across each clinical stage program, including the dose extension cohorts? Thanks.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+I think we'll keep it at a high level, collectively over 50 patients have been treated. A lot of the information is
+already out there in terms of different groups and different studies, et cetera. So, most of that information is fairly
+current. Obviously, we continue to those patients and the second phase of the study and later on this year, we'll
+give you the full complement of that information.
+......................................................................................................................................................................................................................................................
+
+Debjit Chattopadhyay
+Analyst, Guggenheim Securities LLC                                                                                                                                                                                                         Q
+Great. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from David Lebowitz with Citi. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Hi, this is [indiscernible] (00:51:49) on for David. So, we wanted to ask if you can provide us any further color with
+respect to the timing of data in 2023? And also, are you collecting kallikrein activity data and in addition to the
+reduction in protein levels?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David, do you want to speak to what [ph] we're (00:52:11) actually collecting with NTLA-2002 with respect to
+kallikrein and what is the anticipated flow of clinical data across the programs this year?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+                                                                                                                                                                                                                                              18
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Yeah. So, we are collecting both kallikrein protein and activity. We said we would be presenting more data
+towards the end of the year. The important piece of that data is a dose that we haven't reported on in terms of
+attacks, and that's the 50 milligrams dose. If you recall, we went 25 milligrams to 75 milligrams and then stepped
+back to 50 milligrams to sort of fill in our dose response. We found 50 milligrams, as I said, as good as 70
+milligrams. And we expect, of course, to get a similar activity to 25 milligrams and 70 milligrams because they
+both were able to reduce [ph] pack (00:52:55) to zero. But we will be reporting that later this year.
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                           Q
+Okay. Thank you for taking our questions.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Rich Law with Credit Suisse. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Richard Law
+Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
+Thank you. [indiscernible] (00:53:16) Phase 2 studies, such that the time line is not dependent on US site? For
+example, if you received a clinical hold up from the IND, you can win the trial to completion in the ex-US?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+We can...
+......................................................................................................................................................................................................................................................
+
+Operator: Mr. Law, could you please repeat your question?
+......................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                             A
+Yeah.
+......................................................................................................................................................................................................................................................
+
+Richard Law
+Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
+Yeah, sorry. So, the question is that, would you design a Phase 2 study, such that the time line is not dependent
+on the US site? So, if you get a clinical hold from the – for the IND, you can run this entire Phase 2 study outside
+the US and it wouldn't affect the overall development trial to completion?
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Yeah. I mean, the simplest answer to that question is, yes, we can. Of course, the priority is to have US sites
+participating, and that's the expectation. And that's something we're going to work very, very hard to do.
+......................................................................................................................................................................................................................................................
+
+Richard Law
+Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
+And also, have you thought about what's the – for ATTR-PN, will you use an external control group or an active
+control group for the pivotal?
+......................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                              19
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David, are you in a position to talk about your polyneuropathy study designs?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah, we're kind of not giving the exact designs. We have been very interested at all the submissions or all the
+pivotal trial so far have not used inactive comparative arm. And that has to do with the rarity of this disease and
+the reliability of some of the historical data about what's happening in these patients? And that's been used, as
+you've seen in – for example, the [indiscernible] (00:54:49) submission. So, we're looking at all that and we'll be
+coming forward with a design that we'll talk about when we have the details.
+......................................................................................................................................................................................................................................................
+
+Richard Law
+Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
+Great. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Jay Olson with Oppenheimer. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Jay Olson
+Analyst, Oppenheimer & Co., Inc.                                                                                                                                                                                                           Q
+So hey, thank you for the update and congrats on the progress. For NTLA-2002, can you talk about the rationale
+for using the 25 milligram and 50 milligram dosage in the Phase 2 study? And any particular reason not to pursue
+the highest 75 milligram dose? And then are there any lessons learned or read across from the NTLA-2002 IND
+that you plan to fight for the NTLA-2001 IND? Thank you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+David will speak to the doses and how we think about that. I think with respect to the read through, we'll see.
+Obviously, NTLA-2002 is going in before NTLA-2001. And if there is information or feedback that we can apply,
+we would certainly do that. But the same basic philosophy has been applied to both of those programs with
+respect to prior engagement with regulatory agencies, the sorts of things that they're looking for, which doesn't
+differ across the programs.
+
+Just again, to draw the distinction, NTLA-2001 is a far more advanced clinical program and the nature of the
+progression of the program in that IND would be moving to pivotal programs where a dose selection, CMC
+material, pivotal trial, et cetera, will all be part of that review, which we think will be more substantial in nature. But
+in terms of the basic preclinical information, we expect them to be quite similar.
+
+David, you want to speak to the dose selection and the NTLA-2002 Phase 2?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. So, the Phase 2 is always planned to study two doses in addition to the placebo. This is a preferred method
+from regulatory agencies to really understand the best dose rather than picking it coming right out of Phase 1.
+And in this case, the three dose levels were all safe, they all led to zero attacks. So, it made a little more
+challenging. So, what we did see is that, the pharmacokinetics was very similar. We think we're saturating by the
+
+
+                                                                                                                                                                                                                                              20
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+time you reach about 50 milligrams. So, 75 milligrams looked very similar in terms of pharmacodynamics, the
+reduction in kallikrein – reduction. And based on that, we chose the [ph] 250 milligram (00:57:32) as one of the
+doses. This is sort of, we think, as high as you need to go to get optimal activity. We chose the 25 milligram as a
+second dose, a little bit less in terms of pharmacodynamics, as you saw, instead of reaching towards 90%, it was
+more like a 50% reduction in kallikrein. But we thought again, for regulatory agencies to demonstrate that the
+higher dose might be better than lower dose is important because you are going to a higher dose with the
+potential additional risks of going to a higher dose. All in all, the safety is so good. We're not really too concerned
+about that, that aspect of it. But that's why you do those things.
+......................................................................................................................................................................................................................................................
+
+Jay Olson
+Analyst, Oppenheimer & Co., Inc.                                                                                                                                                                                                           Q
+Great. Thank you very much.
+......................................................................................................................................................................................................................................................
+
+Operator: The next question comes from Brian Cheng with JPMorgan. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC                                                                                                                                                                                                           Q
+Good morning, John and Dave. Thanks for taking my questions. We're curious if you have any thoughts around
+the regulatory bar for IND clearance, specifically in the US for in vivo gene editing for some of the non-orphan
+larger disease indications compared to smaller orphan markets. Any feedback that you can provide on how the
+regulators are handling the risk benefit, especially in the indications with larger TAM? Thank you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+I can't speak to how the FDA is assessing benefit risk in terms of the actual application of an editing approach.
+We've tried to be very, very careful about choosing disease states in which it's pretty clear that an editing
+approach should benefit every single patient that is exposed to the agent. Treating risk factors, for example, has
+its own challenges. I think a good case can be made to do that. But when we think about at this point in the
+evolution of these therapies, a benefit risk backdrop where you're dealing with mortal illnesses, where illnesses
+have posed great risk to patients, is the right setting to apply to particular modalities. And the FDA has shared
+some sense of that, I think, in guidances that they've released. But I think the regulators, in my experience, try to
+take a considered view of one can do for patients with different approaches. And so, as they assess some of
+these other indications, those are conversations that I'm sure will play out as they're brought up one by one by the
+various sponsors to do that. So, that would be our experience thus far.
+......................................................................................................................................................................................................................................................
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC                                                                                                                                                                                                           Q
+Great. Thanks. That was helpful.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Sure.
+......................................................................................................................................................................................................................................................
+
+Operator: The last question today will come from Joseph Thome with Cowen & Company. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                              21
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                                                              Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                                                                     23-Feb-2023
+
+Joseph Thome
+Analyst, Cowen & Co. LLC                                                                                                                                                                                                                   Q
+Hi there. Good morning and thank you for taking my question. Maybe just first [indiscernible] (01:00:40) one, did
+you have a pre-IND meeting formally before the HAE IND or maybe why wasn't one appropriate at this time? And
+then just a follow-up on the CM trial, in terms of timing of that initiation, is the main gating factor just clearance of
+the US IND or is there a certain amount of follow-up that you want to see from those expansion cohorts? Thank
+you.
+......................................................................................................................................................................................................................................................
+
+John M. Leonard
+President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
+Maybe David can speak to the nature of our conversations with FDA in NTLA-2002. Just with respect with the
+NTLA-2021 pivotal trial, we intend for it to be a global program which means US sites. We wouldn't begin a pivotal
+trial, is the way we think about it now without those US sites. As we've said previously, what we're looking for is a
+very robust filing that includes extensive clinical information, tantamount to in the Phase 2 of filing. And that work
+is underway. That data collection will certainly be a part of what the application is. When you do a pivotal
+program, you want to have your final commercial material available to be used in that clinical trial. That's certainly
+part of this as well. So the program is quite advanced and moving as we had hoped. So I would stay tuned as we
+have more information, we'll share it. David, you want to say anything about NTLA-2002?
+......................................................................................................................................................................................................................................................
+
+David Lebwohl
+Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Yeah. So, we did have a formal pre-IND meeting for this and we actually – because we've said before we have
+fully addressed the questions that they've raised in that process.
+......................................................................................................................................................................................................................................................
+
+Joseph Thome
+Analyst, Cowen & Co. LLC                                                                                                                                                                                                                   Q
+Great. Thank you very much.
+......................................................................................................................................................................................................................................................
+
+Operator: This concludes our question-and-answer session. I would like to turn the conference back over to Ian
+Karp for any closing remarks.
+......................................................................................................................................................................................................................................................
+
+Ian Karp
+Senior Vice President-Investor Relations & Corporate Communications, Intellia Therapeutics, Inc.
+Great. And thanks so much, everyone, for joining us today and for your continued interest. And we certainly look
+forward to providing additional updates as we progress throughout the year. So, thanks and have a great day.
+......................................................................................................................................................................................................................................................
+
+Operator: The conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect.
+
+
+
+
+                                                                                                                                                                                                                                              22
+1-877-FACTSET www.callstreet.com                                                                                                              Copyright © 2001-2023 FactSet CallStreet, LLC
+Intellia Therapeutics, Inc. (NTLA)                                                                                                                         Corrected Transcript
+Q4 2022 Earnings Call                                                                                                                                                           23-Feb-2023
+
+
+
+
+ Disclaimer
+ The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+ As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+ information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+ of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+ not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security i n any state where such an offer or solicitation would be illegal. Any
+ information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+ CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+
+ THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+ BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+ LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSO RS OR SUPPLIERS WILL BE LIABLE FOR ANY
+ INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE ,
+ SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+ OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+
+ The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+ other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+
+
+
+
+                                                                                                                                                                                                 23
+1-877-FACTSET www.callstreet.com                                                                                   Copyright © 2001-2023 FactSet CallStreet, LLC
+
