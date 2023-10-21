@@ -12,6 +12,7 @@ import string
 import sys
 import datetime as dt
 import MOD_Load_MasterDictionary_v2022 as LM
+from gunfog import calculate_gunning_fog
 
 LMDICT_FILE_NAME="Loughran-McDonald_MasterDictionary_1993-2021.csv"
 MASTER_DICTIONARY_FILE = os.path.join('data', LMDICT_FILE_NAME)
@@ -109,8 +110,12 @@ def LM_text(text):
 
     for key, value in data.items():
         print(f"{key:{max_key_length}} : {value}")
+        
+    print(f"{'Gunning fog index: ':{max_key_length}} : {str(calculate_gunning_fog(text))}")
 
     print('-'* 30)
     print('\n' * 2)
+
+
 
     return dict(zip(OUTPUT_FIELDS, output_data))

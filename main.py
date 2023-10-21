@@ -5,24 +5,32 @@ from LM_analysis import LM_text
 import os
 import nltk
 
+
 company = 'ntla'
 
 def main():   
-    dfq, dfa, dfp = parse_earnings(company)
 
-    #create single txt docs for all text in questions and answers seperately 
+    #gets dataframes of text ans stores them to csv for debugging
+    #dfq, dfa, dfp = parse_earnings(company)
+
+    #gets dataframes without storing as csv 
+    dfq,dfa, dfp = getQAs(company)
+
+    #create single txt docs for all text in questions and answers seperately to be analyzed as single block of text
     create_txt(dfq, 'q')
     create_txt(dfa, 'a')
     create_txt(dfp, 'p')
 
-    #performs LM analysis on answers text
+    #performs analysis on answers text
     with open(os.path.join('data', 'LM', 'answers.txt')) as file: 
-        print('\n Answers')
+        print('Answers\n')
         text = file.read()
         LM_text(text)
+        
     
+    #performs analysis on prepared remakrs text
     with open(os.path.join('data', 'LM', 'prepared_remarks.txt')) as file: 
-        print('\n Prepared Remarks')
+        print('Prepared Remarks\n')
         text = file.read()
         LM_text(text)
         
