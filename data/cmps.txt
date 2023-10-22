@@ -1,0 +1,1160 @@
+                                                                 Raw Transcript
+
+
+
+
+27-Sep-2023
+
+Compass Pathways Plc                   (CMPS)
+Cantor Global Healthcare Conference
+
+
+
+
+                                                              Total Pages: 22
+1-877-FACTSET www.callstreet.com      Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+
+CORPORATE PARTICIPANTS
+Stephen D. Schultz
+Senior Vice President-Investor Relations, Compass Pathways Plc
+.....................................................................................................................................................................................................................................................................
+
+
+
+OTHER PARTICIPANTS
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.
+.....................................................................................................................................................................................................................................................................
+
+
+
+MANAGEMENT DISCUSSION SECTION
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.
+I think we should get started here. My name is Charles Duncan. I'm a biotech analyst for Cantor. And it's a
+pleasure to introduce – for me to introduce the first presenting company of the second day of the 2023 Cantor
+Global Healthcare Conference. This is COMPASS Pathways. COMPASS is a really innovative company. It's a
+company that I've covered for a couple of years, and it is a company that is developing a proprietary form of
+psilocybin for the treatment of mental health disorders, generally, with a Phase 3 – the largest Phase 3 being
+conducted ever in treatment resistant depression with this type of agent. So, I'm excited to introduce
+management.
+
+Luckily, we are spared having Michael Falvey, the numbers guy here. He is not here. But we have Steve and
+Steve. Steve and Steve are guys that can tell us a little bit about Compass. Steve Schultz is going to give us an
+overview, and then Steve...
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+Levine.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.
+Thank you. Steve Levine, who I've met before, but can't remember his name, is going to tell us about the
+treatment paradigm that he envisions going forward. Steve Schultz?
+.....................................................................................................................................................................................................................................................................
+
+Stephen D. Schultz
+Senior Vice President-Investor Relations, Compass Pathways Plc
+Yeah. Thank you, Charles, and thanks for having us. We really appreciate the invitation. And before we begin, we
+will be making forward-looking statements. So, in that light, we recommend that you look at the risk factors in our
+SEC filings. So, I'm Steve Schultz. I head up IR for the company. Dr. Steve Levine is Head of Patient Access
+
+
+                                                                                                                                                                                                                                                                 2
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+Medical Affairs. He's got really, really interesting background in interventional psychiatry. He is a psychiatrist. So, I
+think a lot of good insight should come first [indiscernible] 00:02:02 over here and not, you know, not to this Mike
+Falvey, but, you know, Mike is a – has an extremely in-depth knowledge of the company, too, of course, not just
+the numbers, but he was unavailable due to some flight cancellations so...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.
+That happens.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+It happens.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+So, you know, as Charles said, Compass Pathways is a mental healthcare company. We have – we're focused on
+therapeutic areas of significant unmet need. We have a lead product candidate called COMP360, which is a
+proprietary psilocybin medicine that we combine with support services. And we're currently running a Phase 3
+program for COMP360 in treatment-resistant depression, and that's two trials in that Phase 3 program.
+
+There are – they're very different trials. We probably get into that in a little bit more detail. But the recruitment for
+those trials is on track. One trial is due to read out primary endpoint in the summer of 2024. The second trial is
+due to read out mid-2025. Beyond treatment-resistant depression, we also have ongoing Phase 2 studies in
+PTSD and in anorexia nervosa. So that's the – a high level overview.
+
+
+
+
+                                                                                                                                                                                                                                                                 3
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+
+QUESTION AND ANSWER SECTION
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+That's a great overview. It's a fast overview. I appreciate that because there are a lot of questions that I had to
+ask, but I wanted to ask Steve Levine. Interventional psychiatrist. Why would it be that you have interest in joining
+this very innovative have interest in joining this very innovative company.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Now, that is a great question, Charles. You know, my pathway has been a little bit twisty turny. I started early in
+my career primarily focused on psychotherapy, maybe more so than biological psychiatry. But back in 2010, I
+became interested in some of the research at that point on the repurposing of the old anesthetic ketamine for
+psychiatric indications, and wound up developing models of care that were appropriate to deliver ketamine given
+that to that point, they didn't exist.
+
+Like most mental health care or at least the biological side at that point was in small offices, solo psychiatrists,
+maybe small groups of psychiatrists or therapists, and primarily prescribing treatments that were written on a pad
+and taken as daily oral therapies at home.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Not really built to deliver more complex and in some ways more medicalized treatments that required some
+component of monitoring, observation, other support, you know, really more administratively and operationally
+complex treatments.
+
+The development of ketamine in that way, the later FDA approval of J&J's S ketamine product really spawned the
+birth of this more interventional psychiatry field, which also includes some of the neuromodulation techniques like
+TMS, which is transcranial magnetic stimulation. But there remains some significant barriers to patient access for
+these treatments, some additional opportunities to really ensure that this sadly, very large population of patients
+who aren't adequately benefiting from your traditional antidepressant treatments were able to receive care.
+
+And having on the provider side and having built, you know, networks of centers that were built to deliver
+interventional treatments, seen some of the challenges and recognizing that COMP360 challenges in recognizing
+that COMP360 was going to face some similar challenges and potentially more in some ways. It was a very
+interesting opportunity to be able to come in and start to address some of these challenges early, well ahead of a
+commercial launch, as opposed to trying to figure them out in that commercial environment.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                                 4
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+So it sounds like you were really motivated by a couple of factors, one of them being really a rapidly evolving or
+an evolving treatment paradigm, which had existed before in psychiatry to more intermittent, more interventional
+therapy. You know, perhaps also new mechanisms, new drugs that hadn't been there before. I guess the question
+that I have for you is, do you think – when I was doing diligence earlier in the decade or about a decade ago, I
+would talk to psychiatrists and they'd say, you know, ketamine, it's the biggest thing, you know, and I know some
+of the guys from Yale who were involved in their earlier observations. You know, this is the biggest thing that hit
+psychiatry and locked up. Do you think it's lived up to its potential? And if not, why and will [indiscernible]
+00:07:06?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah, that is a great question. You know, I will say that a lot of my initial interest in building models to deliver
+ketamine, where it necessarily so specific to ketamine itself.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Right. It is a differentiated mechanism of action relative to the SSO rise. It represented a new option for patients
+that need multiple tools because nobody's going to you know, it's not a tool we have yet where every single
+patient in this population is going to benefit. But what was more compelling was looking at emerging trends in
+care delivery in psychiatry that were starting around then. And it's certainly accelerated now to more of an
+interventional model.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And – and certainly, COMP360 represents, I think, one of the most promising examples of represents, I think, you
+know, one of the most promising examples of that. And so, ketamine has its limitations in terms of abuse liability,
+addiction potential.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                                 5
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                           A
+And in many cases, probably not quite as durable as we might have hoped. Rapidly acting, but requires relatively
+frequent, ongoing administration and maintenance. But what it really has done is help to develop and start
+working towards a more mature field that continues to evolve, this evolving trend of rapid acting treatments that –
+that are delivered in person. And I think that in-person model has a lot of advantages over medicines being taken
+orally at home in kind of a vacuum, essentially.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure. Or not taken.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Or...
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Right. Right.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...exactly or not taken.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Right.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Adherence rates are low.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Right.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And I think we have the opportunity to further evolve that paradigm, which is already in motion.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                                 6
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+So, yeah, clear that the treatment paradigm has evolved or is evolving. I guess, the one thing and you kind of
+alluded to this is still missing is a good drug, a good medicine. And so, I guess, I'm wondering if you could provide
+us some perspective when Compass came calling or did you go calling Compass? What was it about this agent
+that was interesting to?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+That's a great question. You know, I think in some ways it was – it was a bit mutual. I've had, you know, some
+relationship with Compass even prior to joining.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+But it was the data that had been generated to that point. This was prior to us having the phase 2b data.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+But Compass having their data and healthy volunteers and some of the academic studies that had already been
+published, which, you know, albeit small and uncontrolled in many cases. You know, really, the outcomes look
+quite different than what we're used to seeing in terms of...
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...having a rapid acting agent. And we've seen that to some extent so far. But the promise of some durability with
+a single administration over the longer term in a very well-tolerated form. And also in, you know, a model that very
+much fits my conception of optimal care, which is more comprehensive, you know, not just thinking about a drug
+in a vacuum.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                                 7
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+Sure.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+But with some support that surrounds it and a greater appreciation for the humanity of people and not just thinking
+of them as people responding to a chemical.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Was very compelling and certainly was part of, I think, Compass and I pursuing working together.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+That's an interesting point. We'll come back to that. I do want to mention to the audience, if you have a question,
+just yell out to me because I'm not. Yeah. I'll get to you if you do.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Stephen, you mentioned or Steve you mentioned that you were interested in, in psilocybin and some of its
+activities relative to, say, and esketamine or maybe I'm reading into a comment that you made. And then it's when
+you think about the care paradigm that you can imagine with COMP360, right? How do you – how do you think
+about the burden of care and how do you – how do you think about the capacity issues that may – may be
+perceived to – to – to exist relative to certainly an esketamine paradigm?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+That's a really important question, one that we get in a number of ways from many different stakeholder groups.
+Because on the surface, if you – if you start with esketamine and although the protocol for delivering that is for
+more administrations.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+                                                                                                                                                                                                                                                                 8
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+It's eight in the first month, twice weekly for the first four weeks.
+
+then weekly in the second month, so another four administrations, and then maintenance on a weekly, every
+other weekly, maybe monthly basis from there.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+That's hard.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+It's been hard. It also is somewhat shorter administration. Patients are in the office maybe four or three hours, as
+opposed to our six- to eight-hour long administration day. And it's a more passive monitoring protocol. But it is
+frequent. And so, when you take that on the surface versus our protocol within our trials on the surface, which is,
+you know, just one administration, but it's a longer day that six to eight hours. And there is a therapist that's in the
+room with the patient the whole time. And it's preceded by some preparatory sessions, which are non-drug
+sessions and then followed by integration sessions. That can sound very resource intensive.
+
+I think it's important, though, to recognize the context of that, which is that this is within a clinical trial setting.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And so, necessarily, you're taking a core out of a longer patient journey. It's bracketed, and there needs to be a
+beginning, a middle, and an end. In real-world use, I think what we would envision post-approval in a real-world
+environment is these patients, those with chronic recurrent depression and treatment resistant depression,
+already are in care.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+You know, almost always they are having a relationship with somebody prescribing medications to them and in
+most cases also in therapy. And there will likely – will be less of a bright line difference between the care that's
+ongoing and having COMP360.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure.
+
+                                                                                                                                                                                                                                                                 9
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                           A
+And so, really, the additive element is primarily that administration day.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And when you start to think about it that way in a single longer administration day versus, you know, many, many,
+many administrations over time and the fact that there's so much overlap in the resources required to deliver
+esketamine and that's now developed and will continue to scale prior to our launch launch and what's required for
+COMP360, you know all of a sudden, those additional resources don't look so additional.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah. And forgetting about the durability question, which we'll get to in a – in a minute. The other thing that you
+mentioned in kind of the discussion we just had was the interaction of the medicine with the therapy, if you will.
+And it makes sense to me that a person who is not your garden variety depressed patient, a treatment resistant
+depression patient could benefit from therapy.
+
+But there is a discussion at the – at some level regularly regulators, probably professionals involved in the – in the
+industry as to the importance of the therapy versus the medicine. Do you make that distinction or do you think that
+the distinction can be made? And is that a complexifier for the regulatory oversight of the medicine?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+You know, in some ways we do make that distinction and it is important. So, approaching that from a few angles,
+you know, first of all, I think to your point, FDA clearly regulates the development of drugs as medicines and
+psychotherapy and not medical practice.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And so, it's very important that in the conducting of our trials that we demonstrate a drug effect. And I think, you
+know, if we look at our outcomes in Phase 2 with our three arm design, 25, 10, and 1 milligrams of our COMP360
+psilocybin combined with our model of support, you do see a dose response and it seems pretty suggestive of a
+drug effect.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                             10
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+There, I think, is some misinformation perhaps some confusion out in the field of the notion of an assisted
+psychotherapy, psychedelic-assisted therapy.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...and we're very clear to make a distinction that ours is a model of psychological support. It primarily exists to
+prepare patients, to have them in an appropriate mindset to have this treatment...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...and to safeguard them...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...more so than being a psychotherapy, which I would – the distinction being that could stand on its own as
+something that's therapeutic.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+I see.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Now, it might be that, you know, in a post-approval world, when we've satisfied the requirements for regulatory
+approval, that patients might benefit from some therapy following this treatment...
+
+
+                                                                                                                                                                                                                                                             11
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+...and that remains to be seen. But certainly, our program is differentiated from, let's say, [indiscernible] 00:16:24
+program developing...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+You brought it up, I was going to.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. Okay.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Thank you.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. Developing MDMA for PTSD, which, you know, they very clearly say is psychotherapy.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Yes.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Right. It's psychotherapy that's catalyzed by a drug, and it's a fairly intensive model of 3 administrations and 12
+psychotherapy sessions. Ours really is quite different from that in the sense of it, you know, being focused on the
+effect of this drug that we think is doing the work, but creating the appropriate safe conditions by providing some
+support around that.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Okay. That's helpful. And as the audience will know, one of the big issues with COMP360 or the historical
+perspective of psilocybin and other such drugs is the safety, right? And so, you're enabling a safe administration.
+And so, the drug can have a biological effect that hopefully help people.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                             12
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                           A
+And that's...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Let's talk about that help people part. So, you as a psychiatrist, let's ask the question about durability. You know,
+Wall Street wants a number. Okay. Is this going to work for three months or six months or whatever and in how
+many patients in how many patients, and what is the effect, size, etcetera? How would you evaluate the efficacy
+of COMP360 best? What are you most interested in seeing turnover in COMP 005? And there's a separate
+questions in COMP 006, the second phase here?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah, great question. So, there's – I guess I'll take those two parts separately. What are we looking for in terms of
+efficacy and then the durability component of that, right?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+No. I'm sorry. You said, what are we looking for? I said, what are you looking for as a psychiatrist?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Okay, fair enough.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah. If they're not different, that's cool.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Maybe they are different in some ways, in the sense of as a psychiatrist, I'm really thinking about serving the
+patient that's in front of me and in a way that's differentiated from the other options available today.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+
+                                                                                                                                                                                                                                                             13
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+And – and so I think that perhaps maybe reflective of perhaps what psychiatrist out in the field may also see as
+important and differentiating, right? And in some ways, that bar may be lower than what we anticipate, what we
+hope for as a result of our trials.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay. Sure.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+We know we can exceed the hopes and dreams of psychiatrists out there because, you know, if you look at the
+options available right now to this population of patients with major depressive disorder who have not benefited
+from multiple treatment attempts so far, it's the repetition of other oral antidepressants that they've already been
+shown not really to benefit from.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Adjunctive.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. Exactly. The addition of adjunctive drugs that come with heavy side effect burdens and modest efficacy at
+best.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And then some other maybe more interventional treatments that that in many cases offer a more rapid benefit to a
+subset of those patients, but may not be particularly durable and require some ongoing treatment to maintain that.
+So, as a psychiatrist, if I had a new option that was rapidly acting and had a favorable side effect profile, had the
+advantage of being just one or two initial administrations, you know, even if that was not particularly durable, that
+would be quite exciting on its own.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Interesting.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah.
+
+
+                                                                                                                                                                                                                                                             14
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+But durable. So, stuff happens. Each year, you know, stuff happens. People are exposed to the fall, the winter,
+whatever. So durability, it just seems like if you showed an effect that could last for three months or so in a decent
+portion, what is a decent portion of patients?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. That's...
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+80%, 90%?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Well, you know, if we look at the existing evidence – and thank you for smiling at that. If we look at the existing
+evidence in this treatment resistant population, the best example probably to look at would be the STAR*D study.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure. Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Largest ever antidepressant trial study, 3,000 patients, a stepwise algorithm of leading patients through best
+practice care. When you get to Steps 3 and 4 in that study, which is that now that definition of treatment
+resistance, 13% to 14% remission.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Wow.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Right. The likelihood as you proceed through each step of remitting is diminishing this small. And then you look at
+our results in Phase 2b and see that about 30% of patients were in remission at our primary endpoint, and about
+25% of patients had a sustained response while...
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+You said remission, correct?
+
+
+                                                                                                                                                                                                                                                             15
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                           A
+Yes. Yeah. Right. And remission, as defined in our study, as below a score of 10 on the moderates. And, you
+know, clinically that would be a state where you're not currently diagnosed in depression.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+You would not expect that?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. That's pretty exciting.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah. And then durability three months?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And then durability, you know. That's – it's part of the reason to run phase 3. Right.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+There still are questions there that we need to answer in our phase 2b study. You know, we had a primary
+endpoint of three weeks. We – but we followed patients out to 12 weeks. Still statistically significant at six weeks.
+Even though powered for three and, numerically, still a nice separation after 12 weeks, with twice as many
+responders and limiters in the 25 milligram group versus the one.
+
+But in phase 3, with our 52-week designs in both of our pivotal studies with elements of – of retreatment, we will
+be able to in a much better way and with the maintenance of the numbers through that study because it's all
+included within one study.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+                                                                                                                                                                                                                                                             16
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+Learn a lot more about within COMP 005, the durability of a single administration and then COMP 006, the
+durability of – of two initial administration.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Well, that's a good segue. It's very sophisticated. And I think, fulsome phase 3 program. But you brought it up
+COMP 006. I wanted to ask you about the scientific or clinical question that's being asked. We only have about
+five minutes, so let's – let's do that. And, then, we'll maybe transition to a few other subjects.
+
+COMP 006 is different. It's a second dose. It's a prescribed second administration. So, what do you think that's
+going to do for patients? You know, because you're – you're giving that after three weeks. You don't really know if
+they've responded based on the six-week endpoint of COMP 005. So, what do you think that's going to do for
+patient? You expect a higher effect size or – or a higher response rate or what do you expect of COMP 005
+versus COMP 005?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. So as a reminder, this COMP 006 design is a 52-week study. It's divided into three parts. Part A is the first
+six weeks and it's initial administrations at a fixed interval three weeks apart, and then patients continue into Part
+B, which remains blinded out to 26 weeks where they're eligible for a single retreatment if they've not yet
+responded or have responded, but now relapsed. And then at week 26 through week 52, the open label portion
+where everybody is eligible for the 25 milligram dose.
+
+What we're attempting to learn more about with that two-dose paradigm is based upon at least initially, some pilot
+data, largely the Imperial Study, which used two administrations, also feedback from PIs within our Phase 2b
+study who in some cases felt that patients who ultimately weren't responders to a single administration might have
+benefited from a second administration.
+
+So, we'll get information about whether there's increased depth of response with that second administration,
+whether that response may be more durable beyond that six-week endpoint, and whether we may have more
+responders over a matters with a second administration.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+Okay. And you might anticipate all of those answers to be, yes?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+It's the reason to do the study. We don't...
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+You do the experiment for a reason. Yes. So, in the last few minutes, let me ask you a couple of questions that
+we want answered. Steve and Stephen,
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                             17
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                           A
+We wouldn't expect anything less from you, Charles.
+.....................................................................................................................................................................................................................................................................
+
+Charles C. Duncan
+Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                                          Q
+So one is, you know, first of all, how's enrollment going, really COMP 006, is COMP 006 progressing? I know
+COMP 005 is making progress, but then back to COMP 005, have you had some patients transition into the open
+label post six month, I guess it's part B or part C
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Will be considered.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+So, have you had some patients?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+So, we're not giving that sort of blow by blow detail on the recruitment. I think, Charles, we anticipate doing, you
+know, quarterly updates on how the trials are going, but they're on track with their recruitment.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And we're on track again for, as I said earlier, the readouts in in summer 2024 for COMP 005 and mid-2025 for
+COMP 006.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+                                                                                                                                                                                                                                                             18
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+Summer being defined by what?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+You know, probably the purest definition of summer.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay. Got it. Got it. Why don't we move on in the last half an hour that we have? It says one, one minute, 40
+seconds that we have to talk about PTSD because really, you brought it up earlier. Very interesting treatment
+paradigm, evolving. Certainly some recent publications and perhaps other news coming in PTSD. Tell us about
+the burden of disease there and why you might be excited. You have a small signal seeking study in PTSD. What
+– what makes you excited about COMP360 in PTSD?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. So first of all, you mentioned the burden of disease, the unmet need. You know, this is a condition, PTSD,
+that affects millions of people worldwide. And there – there really are not many treatment options at this point.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Sure.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Largely it's, you know, follow-on indications from some SSRIs that have a PTSD indication that the best evidence
+actually is more for psychological treatments than drug treatments at this point in that condition. You know, of
+course, we talked earlier about [indiscernible] 00:27:26 program with MDMA therapy in PTSD. And, you know,
+ultimately this is a population of patients that is going to need multiple this is a population of patients that is going
+to the multiple new options.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And there may be one that – that says approval for the program. That is a fairly intensive one that that does
+involve three administrations and 12 psychotherapy sessions for us in this small, largely safety focused study that
+also does have some efficacy endpoints.
+
+I think we're excited to see whether this may be a safe and well-tolerated treatment that if so, we can carry
+forward and with a single administration in this study, could represent a lower resource intensive option in this
+population with a big unmet need.
+
+                                                                                                                                                                                                                                                             19
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+For that study, are you taking all comers in terms of quality etiology of PTSD or the cons? And secondarily, are
+you allowing patients to be on some form of standard of care?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. So in terms of etiology, there are many types of trauma that can result in somebody having PTSD.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+We are not focused on one specific type of trauma as the etiology.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And then – and sorry, what's the second part of the question?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Are you allowing patients to be on other – other medicine?
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+Yeah. So like our TRD studies, this is a monotherapy study.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                          Q
+Okay. Very good.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And just to remind everyone that the PTS study is due to read out this year.
+.....................................................................................................................................................................................................................................................................
+
+
+
+
+                                                                                                                                                                                                                                                             20
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                                                     (CMPS)                                                                                                                            Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                                                                                    27-Sep-2023
+
+
+                                                                                                                                                                                                                                                          Q
+Yeah.
+.....................................................................................................................................................................................................................................................................
+
+
+                                                                                                                                                                                                                                                           A
+And it's really kind of a very safety focused study.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+It is. It's – it's really a quite small sample. And yeah, see if it's – we used to call it, Saturday morning boilerplate
+studies in – in the lab. Anyway, this is this is fantastic. I'm not going to ask you the last question, which I already
+know the answer to, which is if we're here together in a year, what are we going to be talking about.
+
+Hopefully, it's going to be talking about fabulous results out of 005.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+Hopefully.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+I appreciate you two spending time with me. Steve and Steven, thank you very much. Thank you to the audience
+Steve and Stephen, thank you very much. Thank you to the audience for your interest in Compass.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+Yeah. Thank you, everybody.
+.....................................................................................................................................................................................................................................................................
+
+Unverified Participant
+
+Thank you, Charles. Thanks, everyone.
+
+
+
+
+                                                                                                                                                                                                                                                             21
+1-877-FACTSET www.callstreet.com                                                                                                                       Copyright © 2001-2023 FactSet CallStreet, LLC
+Compass Pathways Plc                                               (CMPS)                                                                                             Raw Transcript
+Cantor Global Healthcare Conference                                                                                                                                            27-Sep-2023
+
+
+
+
+ Disclaimer
+ The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+ As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+ information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+ of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+ not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+ information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not repre sent the opinions or beliefs of FactSet
+ CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the wr iter of this report, may have a position in any of the securities discussed herein.
+
+ THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+ BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT L IMITATION ANY IMPLIED
+ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+ LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSO RS OR SUPPLIERS WILL BE LIABLE FOR ANY
+ INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+ SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+ OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT M ATTER HEREOF.
+
+ The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+ other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+
+
+
+
+                                                                                                                                                                                               22
+1-877-FACTSET www.callstreet.com                                                                                  Copyright © 2001-2023 FactSet CallStreet, LLC
+

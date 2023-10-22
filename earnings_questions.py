@@ -5,6 +5,8 @@ def getQAs(company):
     with open('data\\'+ company +'.txt', 'r') as file: 
         text = file.read()
 
+    text = re.sub(r'\[indiscernible\]', '', text)
+
     #create end of block to signify end of speech blocks for pattern recognition
     text = re.sub(r'\.{4,}(?![\\n\\.])', 'EndOfBlock\n\n\n\n', text)
     text = re.sub(r'(?<=\s{10})(\d+)(?=\n)', 'EndOfBlock\n\n\n', text)

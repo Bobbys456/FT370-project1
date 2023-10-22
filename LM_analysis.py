@@ -27,7 +27,7 @@ OUTPUT_FILE = os.path.join('data'+'LMoutput.csv')
 OUTPUT_FIELDS = ['file name', 'file size', 'number of words', '% negative', '% positive',
                  '% uncertainty', '% litigious', '% strong modal', '% weak modal',
                  '% constraining', '# of alphabetic', '# of digits',
-                 '# of numbers', 'avg # of syllables per word', 'average word length', 'vocabulary']
+                 '# of numbers', 'avg # of syllables per word', 'average word length', 'vocabulary', 'num to words']
 
 lm_dictionary = LM.load_masterdictionary(MASTER_DICTIONARY_FILE, print_flag=True)
 #lm_dictionary, _md_header, _sentiment_categories, _sentiment_dictionaries, _stopwords, _total_documents = load_masterdictionary(MASTER_DICTIONARY_FILE, print_flag=True, get_other  =True)
@@ -41,7 +41,7 @@ def get_data(doc):
 
 
     vdictionary = dict()
-    _odata = [0] * 16
+    _odata = [0] * 17
     total_syllables = 0
     word_length = 0
 
@@ -71,8 +71,14 @@ def get_data(doc):
     if _odata[2] != 0:
       _odata[13] = total_syllables / _odata[2]
       _odata[14] = word_length / _odata[2]
+    
+    if _odata[2] != 0 : 
+        _odata[16] = _odata[12]/_odata[2]
 
     _odata[15] = len(vdictionary)
+
+
+   
 
     # Convert counts to %
     if _odata[2] != 0:
@@ -107,15 +113,15 @@ def LM_text(text):
     data = dict(zip(OUTPUT_FIELDS, output_data))
 
     max_key_length = max(len(key) for key in data.keys())
-
+    
     for key, value in data.items():
         print(f"{key:{max_key_length}} : {value}")
-        
+
     print(f"{'Gunning fog index: ':{max_key_length}} : {str(calculate_gunning_fog(text))}")
 
     print('-'* 30)
     print('\n' * 2)
 
-
+    
 
     return dict(zip(OUTPUT_FIELDS, output_data))

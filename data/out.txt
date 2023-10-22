@@ -5,1039 +5,620 @@
 
 
 
-Operator: We will now begin the question-and-answer session. [Operator Instructions] The first question comes
-from Maury Raycroft with Jefferies. Please go ahead.
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+All right.
 EndOfBlock
 
 
 
 
 
-Maury Raycroft
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+So I suppose you are there. Yeah.
+EndOfBlock
+
+
+
+
+
+Geoff Meacham
+Analyst, BofA Securities                                                                                                                                                                                                                   Q
+Hi, guys. Geoff Meacham, BofA. I've a couple of questions. The first is on the combo with you with COVID and flu.
+And as you've derisked the combination, how has your thinking evolved to comp the price? And when you look at
+flu, obviously it's pretty well established. It's not a particularly high bar, but you're offering a lot of value with the
+COVID piece. But that's sort of a less certain market. So that's the first question.
+
+Second question, on the oncology piece, I think that you guys have a pretty productive platform to go from – go
+into Phase 1. How important is it strategically to look at new novel targets in oncology that you could combine? I
+feel like the INT the personalized piece of it is pretty straightforward, but the discovery, target discovery is
+obviously a pretty big research effort.
+EndOfBlock
+
+
+
+
+
+Arpa Garay
+Chief Commercial Officer, Moderna, Inc.                                                                                                                                                                                                      A
+
+
+
+
+
+So I can take the first question on combo pricing. On the way obviously, we're still working through the pricing.
+The way we're thinking about it is the value that the combination provides back to the health care system. So it
+would not just be priced at flu or at COVID, but really the totality of the COVID and the flu benefit. So it will vary by
+market. It will also be taking into consideration the total cost because in some cases based on administration fees
+and office visits, the total cost of getting two injections is actually significantly higher than getting one. So we'll be
+looking at total and we'll be looking at price for value versus tagging it to a monotherapy.
+EndOfBlock
+
+
+
+
+
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+And if I could just add piece of that. I think depending on what we get for the flu comparator like if we get Flu
+mRNA-1010 and the following product because remember Flu mRNA-1010 is just a first steppingstone to a flu
+strategy. But if Flu mRNA-1010 struggles the early data is as strong as  (02:52:19) it has an impact
+on pricing versus  (02:52:23) flu vaccine. And as time evolves, as we get more and more data by
+adding more  (02:52:28) antigenic, we might also be able for efficacy data to actually to capture
+even more value.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+And thanks for the research question. It's scary questions. And Look, I'll be honest. We are a platform company.
+So we start with the question what does the platform do? What do we know it's capable of doing biologically? And
+then we go out and in some cases find other people who have knowledge about the target biology. So if you look
+at the deals that I was talking about before, we're doing T cell vaccines and CAR T-cell vaccines with the same
+platform technology that we were talking about in infectious diseases with a couple of companies 
+(02:53:05) we think have really terrific cell therapies. So pretty straightforward now, one plus one could actually be
+three there. And that's place where we didn't have to work out that Claudin 18.2 biology or the TCRT cell therapy
+of  (02:53:19). We actually just look at somebody who is doing as I said, our platform combine with
+that could do something really special to the durability of solid tumors sponsors. I'd say this same is true with
+Carisma, right. Carisma is going to be an example of company that's work down myeloid cell therapy or in the
+clinic with it kind of hard complicated thing to do cell therapy.
+
+But we already know based on what we are doing with the rare disease that we can actually chronically dose
+safely even at high level doses we can transact those cells if you want to we can make proteins on them and in
+them. And so for us, it's another one of the technologies as we don't need to go become Carisma like experts on
+CarMax. We need to go apply the technology that brings them to another level. So that's where we start in many
+of our cases. Now, there are examples where we will look at a biology and say, Gosh, nobody's solved that and
+the technology can do it. And those are places where you'll see us build more discovery biology in a more
+traditional way and getting deep on pathways and targets. But it'll be more the exception than the rule in our
+approach. Kyle, I don't know if you want anything there.
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+No, I think that's exactly what you said. Like we need to go where the platform can tell us to go. And yes,
+oncology is a very complicated field and there's a lot of target discovery happening all over the globe. And so if we
+can leverage that information and use our technology to help create a better way to target that specific protein,
+then we'll do it. And I think that's the best path forward.
+EndOfBlock
+
+
+
+
+
+Geoff Meacham
+Analyst, BofA Securities                                                                                                                                                                                                                   Q
+Okay. Thanks you.
+EndOfBlock
+
+
+
+
+
+Michael J. Yee
 Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
-Hi. Good morning. Congrats on the progress and thanks for taking my question. I was going to ask about the HAE
-IND, wondering if you're commenting anymore on what exactly FDA requested to be in the IND and what you
-included in the IND for the Phase 2. And do you expect a typical IND acceptance timeline for that program?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Maury, good morning. Thanks for your question. It's pretty standard application and aligns with some of the
-comments we've made in prior communications about what FDA is looking for. I think where this IND may differ
-from other INDs is that we're pretty far along from a clinical point of view and we were able to supply clinical
-information from the ongoing study done outside the United States. So, we were, of course, careful to provide a
-very, very careful and complete update of that information. But otherwise, I'd say it's pretty standard stuff.
-EndOfBlock
-
-
-
-
-
-Maury Raycroft
-Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
-Okay. And maybe one follow-up. Just if you could talk a little bit more about the Phase 2 design and types of
-patients and how you can leverage the data for a potential streamlined, pivotal study in HAE?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-So, David, do you want to address that?
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. So, the Phase 2, and showing it publicly, it's in our slide. But basically, it's three arms. There'll be an arm of
-25 milligrams, an arm of 50 milligrams and a placebo arm and in 5 of the 10, 10 in 5 patients. And the idea here is
-to select the dose for other pivotal study. We have obviously some very good information already from the Phase
-1 being really excellent results at all three doses. 50 and 70 looked very much the same in terms of
-pharmacokinetics. So, we did choose the lower dose possibly being a safer dose. And the 25-milligram dose as
-well is quite good but did look a little different in terms of pharmacokinetics.
-
-So, that's really the trial. It will be informing our Phase 3, which we are already thinking about the design and
-getting ready for. It will contribute to the eventual BLA by the additional information about patients. But that's the
-main use of the trial.
-EndOfBlock
-
-
-
-
-
-Maury Raycroft
-Analyst, Jefferies LLC                                                                                                                                                                                                                     Q
-Okay. Thanks for taking my questions. I'll hop back in the queue.
-
-
-
-
-
-
-Operator: The next question comes from Greg Harrison with Bank of America. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Gregory Harrison
-Analyst, BofA Securities, Inc.                                                                                                                                                                                                             Q
-Hey. Good morning and thanks for taking the question. I wanted to ask how you're thinking about the future of the
-cure to sickle cell landscape, now that some competitors have discontinued investment in the space. What do you
-think will be the next step beyond the CRISPR and Vertex approach and how do you win there?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. Thanks for the question. It's an important one and one that we certainly thought about even from the early
-stage of the company. I think what we've seen is that, sickle cell is curable. I mean, that question, in our judgment
-has been answered. And I think that's great news for patients. The challenge for those patients however, is the
-nature of that cure. The editing, I think, is in hand. It's the application of that editing that we're – where we believe
-we can make significant progress.
-
-So, we've been focused really since the outset as we thought about that disease, doing it in an in vivo setting
-where one can avoid a bone marrow transplant and the morbidity and occasional mortality that comes with that.
-That's a more general solution for patients. And in fact, I think it's a very, very broad based solution, even for
-patients outside the standard Western markets where most patients with sickle cell reside.
-
-So, that's where we've focused our efforts. And from our perspective, based on what we've seen, that space is
-wide open and we intend to get there first.
-EndOfBlock
-
-
-
-
-
-Gregory Harrison
-Analyst, BofA Securities, Inc.                                                                                                                                                                                                             Q
-Okay. That's helpful. Thanks again for taking the question.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Joon Lee with Truist Securities. Please go ahead.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Hi. Good morning. This is [ph] Mehdi (00:21:03) on for Joon. So, I will follow up on the previous question and
-asking, like what is your strategy now? Is that you're following the same type of edits for sickle cell and what
-would be your delivery mechanism? And then, I have a quick follow-up question.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Well, thanks. Again, our strategy hasn't changed for some years now. We've always been focused on the in vivo
-setting. Just to be clear, with respect to the Novartis news, that was an ex vivo only application and when that has
-been followed by them and others in the space. For us, we've always focused on the in vivo setting. From an
-editing point of view, we think there's any number of potential edits that can be successful in our particular
-approach. There's not one that we've disclosed but what I think we've learned is that the disease is curable. So,
-it's really a matter of delivery and making sure that, that's done in a way that is robust and works well for patients.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Awesome. And could you please provide some color on your [indiscernible] (00:22:24) writing system? Any idea?
-Is it similar to existing techniques out there like PACE [indiscernible] (00:22:35) PE or is it more similar to
-homologous recombination? Any color in that domain would be appreciated. Thank you.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. We're not disclosing the specifics. We think about it in terms of capabilities, which is the resulting gene
-edits. In our case, we're most interested in what the resulting change in the DNA is and the specifics of how you
-get there. The particular enzyme system is proprietary and one that [indiscernible] (00:23:06) could develop.
-
-So, we're excited about our ability to introduce the intended changes and do that with great fidelity and great
-specificity and great activity frankly. So, as we go on and the results mirrored it, we will be in a position to share
-more about the progress we're making. But needless to say, as Laura made clear in her remarks, we're very, very
-excited about where we are and where we're headed.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Thanks for taking our questions.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Swapnil Malekar with Piper Sandler. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Swapnil Malekar
-Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
-Hey. Good morning. Thank you for taking my question. So, you had previously mentioned the likelihood of having
-an interim readout for the pivotal trial in ATTR cardiomyopathy. So, I was just wondering, like how the new
-emerging data and the new emerging clinical endpoints that you mentioned in the press release are informing this
-decision of an interim analysis?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David, do you want to address that? Just to be clear, we're not talking about sharing interim results of a pivotal
-trial. Maybe, David, you could just clarify what our plans are with data disclosures for the ongoing study.
-EndOfBlock
-
-
-
-
-
-Swapnil Malekar
-Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
-No, that's – yeah. Sorry, I mean, just in terms of clinical trial design, if there will be an interim analysis? Yeah.
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Okay. Yeah. So, for the Phase 3, as you know, we're designing that now. We're not talking about the exact
-details, but we have said that we think the important endpoints are cardiovascular events and mortality. And
-you've seen some of the other trials out there. It does have to be a large trial to study these questions. We have a
-big advantage as we start to do our trial and that we'll – may see early results from the other trials, which will help
-
-
-
-
-
-inform how we design this trial. But we are considering whether an interim analysis would be valuable here.
-Because we have the best reduction in TTR, we also expect to have the best efficacy in that trial. And because of
-that, the trial could be positive on interim analysis, and we're looking carefully at that possibility.
-EndOfBlock
-
-
-
-
-
-Swapnil Malekar
-Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
-Got it. And one follow-up I had is, so you mentioned that there have been like more than 50 patients dosed across
-two programs with some of the patients reaching two-year mark. So, I was just wondering if there were any
-relapses in TTR or of kallikrein, any of the patients that, that required redosing. Thanks for taking my questions.
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. I think what we've seen in our studies is this effect seems to be permanent. We see the same reduction
-across time with these drugs. So, based on the mechanism and based on what we're seeing clinically now, we do
-expect the effects to be permanent.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Gena Wang with Barclays. Please go ahead.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Hi. Good morning. This is [indiscernible] (00:26:05) on for Gena. Thank you for taking our questions. Can you
-hear me okay?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-We can.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Awesome. Thank you. For NTLA-2002, are you able to disclose how recently you submitted the IND and how will
-you communicate to the investor community the outcome? Can we expect a press release?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-We're not sharing when we submitted the IND. We're giving a broad update today. And so, it's part of that
-process. But we will, of course, share the results of the FDA review when we have that information, just as we
-promised, from the outset here. So, stay tuned. And, hopefully we'll have some favorable results to report.
-EndOfBlock
-
-
-
-
-
-
-                                                                                                                                                                                                                                           Q
-Okay. Great. Thank you. And I had a very quick follow-up. On NTLA-2001, in the prepared remarks, I think David
-mentioned to expect new emerging data on other endpoints like later in 2023. Can you elaborate, what other
-endpoints that we can expect data on. That would be great. Thank you so much.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David, what lies in store?
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. So, what we're looking at, the patients who have been longest on the trial where we – we would possibly
-have the most information of the patients with polyneuropathy. Some things we've looked at most patients include
-the NIS score, the NIS, which is a slightly different from the mNIS+7, but gives similar information on the
-neuropathy symptoms. Another thing we're looking at is cardiac amyloid. This is present both in polyneuropathy
-patients and in the CM patients. So, those are the type of things that we may have enough information on later
-this year.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Terence Flynn with Morgan Stanley. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Terence C. Flynn
-Analyst, Morgan Stanley & Co. LLC                                                                                                                                                                                                          Q
-Great. Thanks so much for taking the questions. I was just wondering, as you think broadly about the pipeline. I
-know you did the Rewrite Therapeutics deal. But just thinking more broadly, do you think there's a need for any
-additional business development or do you think you have all the tools you need at this point? John.
-
-And then one kind of second question, which again, I'm not sure if it's applicable or not, but yesterday CRO
-announced some supply chain issues with non-human primates. And I was just wondering if that might impact any
-of your preclinical work or timelines? Thank you.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. Thanks for the question. Yeah, we read the same news and have inquired. We're not aware today that
-there's any impact on the work that we're doing, and we hope that, that doesn't change. But that's the current
-situation. With respect to BD, we think about it in two ways, I guess. You asked about it in terms of tools, an
-important part of our strategy is to have a toolbox that is complete. And we think about that in terms of the
-capabilities, in terms of those different changes that we want to be able to introduce [ph] into (00:29:12) DNA. We
-think we've got a great toolbox. We watch what's happening on the outside. We have our own scientific efforts
-internally and look for new capabilities that we think would augment the toolbox. At this point, we're pretty satisfied
-with the things that we want to do. But of course, we'll keep our eyes open. I think the broader approach to BD for
-us is just thinking about deploying that toolbox, not bringing things into it.
-
-What we're seeing is, all kinds of wonderful opportunities, some of which we're advancing ourselves, some of
-which we're advancing with collaborators. And in the last 18 months, we've had four different collaborators that –
-for different collaborations we've struck to augment the work that we do in our own pipeline. So, whether it's
-ophthalmology, with SparingVision, autoimmune disease with Kyverna, our spinout with AvenCell or work in NK
-cells with ONK, these are really exciting applications of the capabilities already in-hand and we expect to do more.
-And I think, if you step back and look at our pipeline and bear in mind the clinical rights that we have, commercial
-rights that we have from each of those different collaborations, you see that this is especially for a company like
-ours, of this size, a wonderful pipeline that's replete with opportunities.
-
-
-
-
-
-So, [ph] BDS (00:30:50) toolbox, good with a lot of internal work going to make sure that it remains unsurpassed.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Luca Issi with RBC. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Lisa Walter
-Analyst, RBC Capital Markets LLC                                                                                                                                                                                                           Q
-Oh, great. Thanks for taking our questions and congrats on all the progress. This is Lisa on for Luca. Just one on
-the cardiomyopathy pivotal trial. Just wondering if we should expect two trials here? Maybe one with the six-
-minute walk test as the primary end point and another with cardiovascular-based outcome study. And maybe on
-sickle cell disease, can you expand further on why Novartis decided to discontinue the program? And if there is
-any clinical data available, will you be in a position to share it? Thank you.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. I can't speak to Novartis' position other than they've been going through what appears to be a broad review
-of their pipeline and their different approaches to it. I would just remind you that for us, that has been a Novartis-
-only program, one that we've not directly participated in. We've provided reagents to them some years ago. We've
-always believed that the future lies with the in vivo approaches, and that's been a focus of the work that we do.
-I'm sure they looked at the ex vivo space and may have had some of the same realizations that we had some
-years ago. So, I think it's apparent where that space will ultimately go. But David, maybe you can ask or answer
-the question about pivotal trials. How many do you actually want to do?
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-We're – again, we're not telling the exact program, but we don't think that dividing those things into two trials is a
-great idea going forward. So, the six-minute walk test, the more questions about how valuable it is to
-understanding how patients are doing. And you've seen that in some of the recent trials in amyloidosis. But again,
-we think the important end points of cardiovascular events and mortality. And that's what the patients are
-interested in, the doctors are interested in, the payers are interested in. So, it's really what – we're most
-interested. The regulators, of course, are very interested in those factors.
-EndOfBlock
-
-
-
-
-
-Lisa Walter
-Analyst, RBC Capital Markets LLC                                                                                                                                                                                                           Q
-Great. Thanks for taking our question.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Yanan Zhu with Wells Fargo. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Yanan Zhu
-Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
-Hi. Thanks for taking my question. On the HAE program, I was wondering what's the reason or rationale for
-having this placebo arm in this Phase 2 study? And also, in terms of the goal of the treatment for this kind of one-
-time treatment approach, are you – do you think a complete cure is kind of the expected outcome for this type of
-approach or there could be a different kind of outcome and still appropriate for this approach? Thanks.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-
-
-
-
-
-David, what role does placebo play and what's the aspiration?
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Sure. So, the placebos are – having placebo controlled trials are the gold standard in randomized trials. Of
-course, don't expect them to benefit in the placebo arm. But of course, we've also seen there can be a strong
-placebo effect in many trials and that's the risk of not having that arm to compare – not to compare, it's not a
-comparative trial to Phase 2 but it's a reference arm to see that what we expect is to have a very strong effect in
-both of the doses, 25 milligram and 50 milligram and to have little or no effect on the attack rate in the placebo
-arm. And that will help again inform and help us design the pivotal trial and choose the dose.
-
-Should mention that the patient placebo arm will be offered to cross over and get the active drug once their
-evaluation is completed. And of course, we do this because of the contribution they're making to our study and
-their desire to get this type of therapy as part of their potential cure going to the second part of that. This idea of a
-functional cure is what the idea that you could get to zero attacks in patients with this single treatment. And
-whether we can achieve that is it's too early to say. We're very encouraged by the early results. We are getting
-deeper reductions in kallikrein [indiscernible] (00:35:47) with the best agents that are out there. So, it is possible
-that this will also lead to better efficacy. And again, this aspiration to have a functional cure or to – patients to
-have no attacks after receiving our drug.
-EndOfBlock
-
-
-
-
-
-Yanan Zhu
-Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
-Great. Thanks. If I could have a quick follow up on the cardiac amyloid. You mentioned that might be a readout for
-the NTLA-2001 program. Just wondering is the expectation that the cardiac amyloid will be resolving or that is the
-expectation that it is just stabilizing and no more additional amyloid addition? Thanks.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. This has been well established. Of course, there aren't therapies that get to the very low levels of TTR that
-we're able to achieve. But the idea we have and we hear from the key investigators in this area is that if you do
-get to low enough TTR levels, you will – the rate of amyloid deposition into organs will be so reduced that the
-equilibrium will be the other way. In other words, the removal of amyloid from the heart is greater than the addition
-of amyloid due to the small amount of TTR that would be in the blood at that point. So that's what we're hoping to.
-The idea then is a possible reversal of the heart disease by getting rid of that amyloid and that is our aspiration for
-that trial.
-
-And that is our aspiration for that trial.
-EndOfBlock
-
-
-
-
-
-Yanan Zhu
-Analyst, Wells Fargo Securities LLC                                                                                                                                                                                                        Q
-Great. Thank you for taking the questions.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Salveen Richter with Goldman Sachs. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Shrunatra Mishra
-Analyst, Goldman Sachs (India) Securities Pvt Ltd.                                                                                                                                                                                         Q
-
-
-
-
-
-Hi. This is Shrunatra on for Salveen. Thank you so much for the update. Could you provide some color on the
-nature of discussions that you're having with regulators regarding the global pivotal study for NTLA-2001 in both
-ATTR-CM and PN? And also regarding NTLA-2002, how confident are you regarding the IND acceptance and do
-you have any timelines in mind about when you'll get this information?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Maybe, David, you can address how we think about the pivotal and when we'll be in a position to share
-information. I just – with respect to the IND, I would say it this way. We've had a variety of interactions with
-various regulators, including the FDA in the run up to this. We believe that we're addressing the questions that
-they wanted us to address. It's not just the list of those questions, but it's the extent of the data that we've tried to
-provide that actually goes to making sure that we're not just checking boxes, but really answering questions and
-helping them to evaluate the product.
-
-Additionally, as I said at the outset, we've supplied clinical information, which I think is unique with respect to
-some of the other INDs that have played out over the last few years in the space. And we think that that's a
-helpful bit of information for the FDA to consider as they do their evaluation. So we look forward to the outcome.
-Obviously, it's subject to their review but we think we've done a good job of possibly supplying information. And as
-we've said with respect to timelines, when we have the information in terms of the outcome of that review, we will
-share it and everybody will know at the same time.
-
-David, do you just want to say a few words about how we approach the pivotal and when we'll be in a position to
-share that information?
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. So, just what John said about all aspects of our – for the IND submission, another piece of that are clinical
-discussions that have gone on both in the pre-IND setting with regulators around the world and Europe. And with
-that, we have – we're coming forward with the design. We have the leading investigators in this area supporting
-us in designing this trial. And the point at which we'll have a [indiscernible] (00:40:15) trial, we'll have to do it
-around the time of the IND. We've said that in the middle of the year for the IND for NTLA-2001 and as well in
-Europe with the CPA applications that go on for that Phase 3 as well.
-
-So, that will be – and the other thing we've said is that the trial will start by the end of the year. So, that's sort of
-the time frames you have. As we have more details, we will share those with you.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-I might add one important distinction for the listeners to keep in mind. With respect to NTLA-2001, which differs
-from the NTLA-2002 IND application, we're talking about an IND [ph] that will (00:41:00) pursue a pivotal trial. So,
-in some respect, it's not just in IND with all the preclinical work, it's also supplying the information that would typify
-into Phase 2 meeting with the FDA. So, we expect the NTLA-2001 application to be a very, very substantial filing
-when we in fact do it which is different from 2002 and it's certainly different from most of the other INDs in the
-space that have been for first-in-human application. So, as the year goes on, well, I'm sure we'll be talking more
-about this.
-EndOfBlock
-
-
-
-
-
-Operator: The next question – go ahead. Okay. The next question comes from Rick Bienkowski with Cantor
-Fitzgerald. Please go ahead.
-EndOfBlock
-
-
-
-
+Hey, guys. Michael Yee from Jefferies. Maybe an easier question and then maybe a slightly tougher question.
+The easier question is just on flu. I noticed that you said you still sort of need to talk with regulators. What do you
+need to get agreement on? When would we know that? And is there absolutely any risk at all that they wouldn't let
+you file accelerated on flu? Maybe talk to that and the chronology of when we would know about flu.
 
-Rick Bienkowski
-Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
-Hi everyone, good morning. Congrats on all the progress, and thanks for taking the questions. For the NTLA-2002
-program, a worldwide Phase 2 trial initiation looks to be a bit staggered with like outside the US opening first,
-while the IND application was submitted to the FDA. And so, my question is if the FDA does have any feedback
-on either trial design or endpoints in the study, as after the IND review? Are there any mechanisms to amend the
-trial protocol for sites outside the US after the trial has already started?
+And then the tougher question maybe is just, there was obviously a lot of discussion around your confidence in
+jabs and vaccines, utilization. Obviously it's very sensitive to the vaccine rates. Under what scenarios do you think
+if that didn't come in at where you think that's going to come in this year or even next year that you guys feel right-
+sized about your expenses and the growing expenses? This year as a year, where there's supposed to be EPS
+negative maybe that gets tougher next year. So under what scenarios do you think about that doesn't really
+matter?
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David, do you want to speak to that? I mean, I'll just remind everybody this is a Phase 2 study. It's not a pivotal
-trial. And so, some of the details are less consequential. But David, do you want to speak to that?
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+I'll take a first crack at the flu stuff and then ask Jackie to correct me where I get it wrong. But as a general point,
+so we're following established regulatory guidance, what we're doing, we've had conversations as we've run
+through these Phase 3 studies. But in any study, when you get to an end of a Phase 3 and you've met your end
+points, the appropriate next step is to, in the US that have a pre-BLA meeting and other jurisdictions is down, we
+say, here's the data, now can we talk about what the package looks like? And that's ultimately the process that
+we're engaging in right now. Those are pretty quick conversations that will be going on through the fall and in the
+background, you can be rest assure that we're doing the work to prepare everything to file. But until we have that
+feedback of how they want to see the package come together, how much follow-up they want to see, even in the
+P303 study, we won't have the answer on filing timelines. Rest assured, we're using every minute we can, it get
+happen, happens fast as possible. But we have to have those conversations.
 EndOfBlock
 
 
 
 
 
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. Yeah. I should say that when you're submitting a trial around the world, different regulators will often have
-different ideas about details of a trial, usually not the big picture. So, it is very possible that there can be
-amendments to the trial that occur related to feedback either in the US or from outside the US. And sometimes,
-it's very helpful. We think they're good ideas. Sometimes, we just have to follow the directions for the various
-reasons. But the – yeah, that certainly could happen, but there is a good mechanism for doing that, which is the
-amendment process for the trial.
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Yeah. Nothing to add, I mean, I think that's a – so we're in the process of having those conversations now, and
+we'll know more, I guess when we do.
 EndOfBlock
 
 
 
 
 
-Rick Bienkowski
-Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
-Right. Got it. Thank you. And a quick follow-up. So, there's a few novel technologies in their early pipeline now of
-gene writing, base editing, and proprietary LNPs. I guess it's difficult to get a sense of how far away all these
-technologies are from getting into the clinic or what sort of indications these technologies might be able to
-address? So, are there any time lines for when we may get some more substantial updates for the progress of
-these earlier stage technologies?
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+Yeah. What's clear is we've met the regulatory guidance for accelerated approval in terms of new 
+(02:56:49) 303 study, which was the thing we were looking for.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-We haven't guided to any particular products or pipelines. We've spoken generally in prior presentations about
-useful applications of base editing where we think it makes the most sense. That tends to fall primarily in the ex
-vivo setting where one is hoping to introduce many simultaneous knockouts, and we have very, very advanced
-work in that space. And we've talked a little bit about our allogeneic platform that we're very, very excited about.
-And so, I would encourage you to stay tuned with respect to future updates in that and where base editing may fit
-in, in that space, we'll see.
-
-With the gene writing approach, it's earlier days, but we're making really excellent progress in terms of getting
-very high levels of specificity and we're able to introduce the intended changes that we're looking to do. So as that
-moves along, we'll find what we think are the appropriate applications and talk more about that. But in the
-meanwhile, we're focused on progressing NTLA-2001 and NTLA-2002 and making sure that we continue to
-
-
-
-
-
-demonstrate that any of these technologies really matter for patients in a meaningful way. And that's where we
-think we are with the current progress.
-
-So, more to come and we'll show those updates as appropriate.
-EndOfBlock
-
-
-
-
-
-Rick Bienkowski
-Analyst, Cantor Fitzgerald & Co.                                                                                                                                                                                                           Q
-Got it.
-EndOfBlock
-
-
-
-
-
-Operator: [Operator Instructions] The next question comes from Raju Prasad with William Blair. Please go
-ahead.
-EndOfBlock
-
-
-
-
-
-Raju Prasad
-Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
-Thanks for taking the question. Just kind of wondering the cadence of the IND submissions, why NTLA-2002 is
-going to come in ahead of NTLA-2001? Was it because as you referred to earlier, the NTLA-2001 application is
-larger? I'm just wondering because the durability and amount of data for the two years [indiscernible] (00:46:00)
-on the clinical side is much higher?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-It's really unrelated to what you're saying. It's NTLA-2002 is at the proper point to begin Phase 2. NTLA-2001 will
-be at the point to begin Phase 3 work. And to have the information necessary to support that NTLA-2001 IND,
-which again, I liken to an end of Phase 2 meeting, far more substantial filing than a typical first-in humans IND,
-getting the full complement of clinical information, which is not just the acute exposure and the short term editing
-results, but actually following these patients for some period of time is an important part of that application. And
-just the way the timelines work out.
-
-David, if you have anything to add to that, I mean, that's the essence of it.
-EndOfBlock
-
-
-
-
-
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. Those are the important features of the timing.
-EndOfBlock
-
-
-
-
-
-Raju Prasad
-Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
-Great. Maybe just a quick follow-up. Just wondering the rationale behind the ATM in Q4 on top of the follow on.
-Just wondering why? Thanks.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Glenn, do you want to speak to our fundraising?
-EndOfBlock
-
-
-
-
-
-Glenn Goddard
-Executive Vice President & Chief Financial Officer, Intellia Therapeutics, Inc.                                                                                                                                                              A
-
-
-
-
-
-Sure. Yeah. We just – we thought at the end of Q3 of last year and early Q4 is an opportune time to use the
-program just based on how the stock was trading and volume. And then opportunity opened up in late November,
-December. To just follow on, we took advantage of that. So, was it preplanned to do it that way? It's just how
-things [ph] worked out (00:47:40).
-EndOfBlock
-
-
-
-
-
-Raju Prasad
-Analyst, William Blair & Co. LLC                                                                                                                                                                                                           Q
-Great. Thanks.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Dae Gon Ha with Stifel. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Dae Gon Ha
-Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
-Great. Thanks for taking our questions and congrats on all the progress. I'll just stick with the IND question again.
-So, with regards to the NTLA-2002, I guess, to what extent do you think you've fully addressed some of the FDA
-concerns and were obviously very limited to what's publicly disclosed from one of your competitor programs or
-peer companies. And to what extent is the depth and the extensive nature of your submission, so in the case of
-how many pages you submit? Will that be a limitation factor as it pertains to the review within that 30-day period?
-Thanks so much.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-I can't speak to the number of pages and how fast the various reviewers at the FDA read them. But – and that's
-not the metric that we use. Although, these applications tend to be very, very large, as you know, because there's
-a lot of information shared. But we try to address the questions as posed by the regulators. And I think an
-important thing to emphasize is it's not just data, but it's really testing the robustness of the system. And these are
-principles that apply not just to our space, but to drug development in general, whether you're doing small
-molecules, antibodies or whatever. We've tried to apply that kind of thinking, knowing from prior experience how
-the FDA thinks about this stuff.
-
-So with respect to other people, I can't address that. I don't know the work, the nature of it, et cetera. We'll see.
-The FDA, as they review it, I'm sure will pose questions to us. We'll do our best to answer them. But we don't
-expect to have major deficiencies in the IND. If there's smaller questions that they want clarification on, we will
-answer them as quickly and as robustly as we possibly can. But we think we have a full complement of
-information available.
-EndOfBlock
-
-
-
-
-
-Dae Gon Ha
-Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
-John, just a naïve question. With regards to the IND review, is there something analogous to a PDUFA extension
-where they just need more time to review or does it have to be a binary yes or clinical hold?
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-My understanding is that it's 30 days and you get a clearance or a hold. And then ask – if there is a hold, there's
-additional information provided by the FDA in terms of what they're looking for in a very formal way. And then
-
-
-
-
-
-that's when you're in a position to best answer their follow-up. If it takes a little longer for them to go through the
-stuff, we'll see. But again, we believe that full complement of information has been provided to them.
-EndOfBlock
-
-
-
-
-
-Dae Gon Ha
-Analyst, Stifel, Nicolaus & Co., Inc.                                                                                                                                                                                                      Q
-Great. Thanks so much.
-EndOfBlock
-
-
-
-
-
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Sure.
-EndOfBlock
+James M. Mock
+Chief Financial Officer, Moderna, Inc.                                                                                                                                                                                                       A
+Yeah. And to the second question, I think that's exactly what I was trying to articulate earlier, which is we look at
+our capital and we look at the strength of every annual business here. And we have scenarios. Our base plan is
+$25 billion. Should it not be – should the strength of this core business not achieve what we think is probably
 
 
 
 
 
-Operator: The next question comes from Debjit Chattopadhyay with Guggenheim. Please go ahead.
+lower than $25 billion? Should it be higher? We actually might invest a little bit more than $25 billion. So, we
+definitely look at those plans. And right now we think we feel comfortable that – that's our best guess in terms of
+the R&D investment.
 EndOfBlock
 
 
 
 
 
-Debjit Chattopadhyay
+Evan Wang
 Analyst, Guggenheim Securities LLC                                                                                                                                                                                                         Q
-Hey. Good morning, all. Thanks for taking our question. Can you provide an update of how many patients have
-been treated across each clinical stage program, including the dose extension cohorts? Thanks.
+Hey, I'm Evan Wang from Guggenheim. Exciting data in flu, great improvements on B strains. So, I guess, how
+are you thinking about this combine with P302 data which I think still had preliminary eight cases, should this
+updated formulation translate to improve the efficacy in  (02:57:47) standard flu or hand flu? If not I
+guess how you guys think about next steps towards kind of evaluating that at the head trial with either mRNA-
+1010 or next-gen program?
+
+And I have a second question on oncology following the data from ACR and ASCO. Have you approached
+regulators on kind of what's required for accelerated approval, I guess, both for adjuvant melanoma and to
+support approvals in lung cancer and  (02:58:19) candidate? Thanks.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-I think we'll keep it at a high level, collectively over 50 patients have been treated. A lot of the information is
-already out there in terms of different groups and different studies, et cetera. So, most of that information is fairly
-current. Obviously, we continue to those patients and the second phase of the study and later on this year, we'll
-give you the full complement of that information.
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+ (02:58:22) I'll start us out. The first on P303 because we met that the regulatory guidance on
+ (02:58:30) for accelerated approval that's the phase 3 that can right now go forward and that's the
+basis of our current thinking and strategy for engaging with regulators. P302 as you are, as you know, as we said
+today, we didn't accrue enough cases. We would – we've said previously we need probably something like 400
+and we didn't get there in that season. The next step in that study logically would enroll a second season. That
+would take longer, with P303 in our hands right now , it feels like the accelerate approval path on that is the faster
+path to market. But, Jackie, you want to speak to the questions of what we might do alternatively or we'll get you
+to follow-up and build on the success of P303.
 EndOfBlock
 
 
 
 
 
-Debjit Chattopadhyay
-Analyst, Guggenheim Securities LLC                                                                                                                                                                                                         Q
-Great. Thank you.
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+So I think as we reported earlier, right, one of the key things in any regulatory submission process is successfully
+meeting your endpoints that you pre-specified and P302 was an incredibly successful study for us in terms of
+learning. It was not as successful for us in terms of meeting that criterion. We actually did have a positive point
+estimate on the overall vaccine efficacy. And you pointed out earlier that really was on the basis of a strong
+efficacy of the A strains, and we observe that from an immunogenicity perspective in the P301. Where we fell a bit
+short was on meeting the lower bound.
+
+Any time you don't have enough cases you have wider confidence intervals. And the other thing we observed was
+that our B efficacy wasn't what we want it to be in the product that we're going to put forward. And so I would say
+the other piece of that was deciding to really invest in improving and developing the best possible flu product that
+we can bring forward. And so that really is why we did the additional study and why we're going to go with the
+accelerated approval. And I'm sure we'll have the opportunity to demonstrate the effectiveness of this vaccine in
+the real world kind of moving forward.
 EndOfBlock
 
 
 
 
 
-Operator: The next question comes from David Lebowitz with Citi. Please go ahead.
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+The other part of your question just to hit is you mentioned maybe even being superior in terms of efficacy. Look,
+we're – scientifically, we're excited with that. We see really high GMRs here, even in our smaller studies we're
+
+
+
+
+
+excluding one. So there's a reason for some optimism that those higher titers will translate. We have to go prove
+that though. So for now, we're just pursuing the accelerated approval path for the P303 study.
 EndOfBlock
 
 
 
 
 
-
-                                                                                                                                                                                                                                           Q
-Hi, this is [indiscernible] (00:51:49) on for David. So, we wanted to ask if you can provide us any further color with
-respect to the timing of data in 2023? And also, are you collecting kallikrein activity data and in addition to the
-reduction in protein levels?
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+And in terms of your question about oncology, trust me, we've had lots of discussions with regulators. I can't,
+unfortunately, share with you the discussions that we've had with regulators, but we're excited about the data.
+We've even heard excitement from regulators about these data. And so it's an ongoing discussion when we're
+able to share with you what they've said to us, then we will do so. Trust me.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David, do you want to speak to what [ph] we're (00:52:11) actually collecting with NTLA-2002 with respect to
-kallikrein and what is the anticipated flow of clinical data across the programs this year?
+Salveen Richter
+Analyst, Goldman Sachs & Co. LLC                                                                                                                                                                                                           Q
+Salveen Richter of Goldman Sachs. So just a follow up on that last point. I think you've talked about the three-
+year data coming by year end for the INT program, but also the interim look that will come at – at, I believe,
+ (03:01:26). So, have you – I mean, have you – do you have a sense of what the regulators want to
+see from those two data sets or is it the first one kind of gets you to that discussion point.
+
+And then just a broader question, when we think of this oncology vertical where historically you've talked about
+how you would really need to unlock a vertical before you fully invest in it and cancer's risky. Talk to us about the
+INT work and how that translates to your Triplet as well as the checkpoint vaccine. And then why you are now
+starting to do these partnerships that are a bit more peripheral? Thank you.
 EndOfBlock
 
 
 
 
 
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Sure. So, let me follow up on our question about INT and regulators. So we need to follow our statistical analysis
+plan for our randomized Phase 2 trial. So we will be following that plan, waiting for our events, making sure that
+we're doing our analyses as written by our protocol and by our statistical analysis plan. And when we have those
+data, we hope to share them not only with regulators, but hopefully at upcoming scientific congresses.
 
-
-
-
-
-Yeah. So, we are collecting both kallikrein protein and activity. We said we would be presenting more data
-towards the end of the year. The important piece of that data is a dose that we haven't reported on in terms of
-attacks, and that's the 50 milligrams dose. If you recall, we went 25 milligrams to 75 milligrams and then stepped
-back to 50 milligrams to sort of fill in our dose response. We found 50 milligrams, as I said, as good as 70
-milligrams. And we expect, of course, to get a similar activity to 25 milligrams and 70 milligrams because they
-both were able to reduce [ph] pack (00:52:55) to zero. But we will be reporting that later this year.
+The discussions around accelerated approval are complicated. Of course, there's a lot of things besides just data
+that I think regulators want to see. They want to make sure that you have a commitment to moving forward with
+large randomized Phase 3 trials. They want to make sure that you have robust safety data. And so all of these
+things are things that we're trying to pull together to make sure that we've got the best package possible. But in
+terms of the criteria that you're asking about, like what are the exact criteria that regulators want to see, I can't
+answer that question because those are discussions that we continue to have with our regulators.
 EndOfBlock
 
 
 
 
 
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+The one thing I'd add though is obviously we have a intermediate goal of filing. But that's not really the objective,
+right? The objective is to get the product to market. So even the objective isn't approval, it's to get the product to
+market. And so the other piece of the puzzle that we're working on right now that will be a part of any licensure
+package is manufacturing, global manufacturing to supply this product to thousands of people – tens of thousands
+of people pretty quickly. And so what you see us doing and hopefully we've been consistent about, we do believe
+– it's our perspective, we do believe there's a path towards accelerated approval. We do believe that it requires
+that the responses continue to deepen and remain durable, right?
 
-                                                                                                                                                                                                                                           Q
-Okay. Thank you for taking our questions.
+
+
+
+
+The signal has got to get it's been strong, it needs to stay strong, as we follow over time. We believe we've got to
+demonstrate the commitment that Kyle mentioned, which is we've got to be in that Phase 3 study, we're in, and
+we're enrolling fast. And then we've got to build the infrastructure to provide that product to patients in the real
+world, because that's ultimately what gets licensed. It's not a file, it's not a clinical study, it's product. And so these
+are the things you see us doing. Can that happen as early as – by 2025? Clearly, we're trying to signal we do
+believe that, but we've got work to do across those three things together. I was
 EndOfBlock
 
 
 
 
 
-Operator: The next question comes from Rich Law with Credit Suisse. Please go ahead.
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+And whether that happens, the accelerated approval or not, we're going to have to run the Phase 3 study. So it's
+really important that we focus on that Phase 3 study, get patients in that study, and make sure that we have that
+fully enrolled and executed. So that's very, very important.
 EndOfBlock
 
 
 
 
 
-Richard Law
-Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
-Thank you. [indiscernible] (00:53:16) Phase 2 studies, such that the time line is not dependent on US site? For
-example, if you received a clinical hold up from the IND, you can win the trial to completion in the ex-US?
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+Yeah. I'm just going to add to Stephen's point on CMC for INT because as you said, getting approval is great but
+we want products to reach patients obviously. And so for that, as we saw in – in the Q2 press release, we've been
+buying a new site in Marlborough, which is 20 minutes' drive from Norwood, which many of you have visited and
+that site is dedicated for INT commercial. So, we're doing the Phase 3 INT out of Norwood. And as you know,
+we've been scaling up Norwood pretty drastically because if you go back in time the Phase 2 was 100 patients on
+INT, there were 51 on placebo.
+
+The Phase 3 that you saw, 1,000 people for melanoma, 1,000-ish for lung and you can  (03:05:22)
+and you already see right there 20x, 30x capacity need. And as the team was saying, we want to enroll those very
+quickly, because we believe there is potential benefit for our patients and to get the data. With that CMC we are
+moving  (03:05:37) COVID.
+
+So if you look at what the team has done when COVID happened, and the incredible manufacturing scale of that
+happened in 2020 that many of you followed very closely. It's actually the same team with same mindset. But
+actually, one of the things we said internally, it's a COVID like moment with like, oh jeez, the data is so good on
+INT, we cannot have manufacturing with the bottleneck. But today, as we have data mature in Q4, manufacturing
+is a bottleneck. And so what we are doing is investing aggressively  (03:06:07) giving us the
+resources we need to be able to really scale that new site. And we need that also as Stephen said to
+ (03:06:15) manufacturing path of our filing to where – the discussions  (03:06:18) it's
+all happening and we're pushing as hard as we can.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-We can
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Just one other thing I'll add is, the important part of this is making sure that we have consistency across
+endpoints. And so we've shown consistency in RFS, DMFS by tumor inflammatory score, a PD-L1 status, right?
+No matter how we look at the data, we see consistency across the data. And I think that gives us more confidence
+and certainly will give regulators more confidence.
 EndOfBlock
 
 
 
 
 
-Operator: Mr. Law, could you please repeat your question?
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+We could talk all day about this.
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Sorry.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+No, I – because I want to say it was globally run, it was randomized. We're seeing this in multiple countries, and
+we're following it over time. The short version of it is we've got to get this. We believe this medicine will get to
+patients quickly if we do a bunch of things, right? We're focused on getting this done.
+
+You asked then how do we expand in oncology? Again, thank you for that question. Yeah, we're still – so
+specifically we've got programs like our intratumoral programs. You mentioned the Triplet, which we've seen
+some interesting early data and we're still waiting for that confirmatory proof-of-concept study that absolutely
+clear, well-powered signal that like, oh, that's doing something and we have to advance quickly there. So I think in
+the other modalities that we have in clinical development right now, we have not yet seen that. Checkpoint is kind
+of in between. We know our vaccines generate T cell responses. We have a biology question about those targets
+and whether we can demonstrate a benefit in those tumors. And so we're running that study.
+
+And then as you look at the other programs that I mentioned, what we're doing with Carisma in cell therapy, what
+we're doing with the T cell and CAR-T booster vaccines and even what we're doing with  (03:07:48),
+I think they're all categories that are somewhere in between those two, right? So, places where we're still looking
+for proof-of-concept, trying to understand can the platform do a lot there? And what we're doing is partnering in
+the biology or in the cases of checkpoint vaccine, advancing ourselves to try on our own and see whether or not
+as a proof-of-concept.
+
+And so when we hit one of those, well, those are all in the same therapeutic area, kind of view them all as related,
+very adjacent modalities. And if we hit one of those, then of course, we'll be doing a lot more, whether it's in cell
+therapy, in vivo cell therapy, supporting CAR-Ts or
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Intratumoral.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+alternatively doing intratumoral work like we're doing in the Triplet. So that's I think just exploration still, still
+waiting for the proof-of-concept.
+EndOfBlock
+
+
+
+
+
+Gena Wang
+Analyst, Barclays Capital, Inc.                                                                                                                                                                                                            Q
+Gena Wang from Barclays. I have three questions. The first one is mRNA-1010. Now, you show very impressive
+data. I'm wondering, will you be able to share that improved formulation, what is that, If you can share with us.
+
+And second question is regarding the combo vaccine. So, has FDA already aligned with you regarding the
+approval path, and what exactly kind of data you need to show?
+
+
+
+
+
+And lastly is INT non-small cell lung cancer Phase 3 trial design. Can you share with us regarding the target
+patient population in terms of the stage of the disease?
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+Yeah. Hi, Gena. I'm going to disappoint you because we've had – literally had competitors come up to us
+conferences and say, we can't wait for you to tell us how to solve that problem. And so we are not right now
+talking about what we've done in just the last 6, 12 months. But as Raffael said, we're really proud of the platform
+we built and the ability it allows us to make those quickly changes. What really matters is the proof is in the
+pudding, where we were able to demonstrate just looking at B antigens as we think potentially best in class over
+time, we'll see. And we're really excited by those titers. It shows we've
+EndOfBlock
+
+
+
+
+
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+Well, the B thing is not the class effect?
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+It's not a class effect.
+EndOfBlock
+
+
+
+
+
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+Not a class effect.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+science and so we're very excited about as far as we – and that's why as Jackie said a moment ago, we're
+rolling that product forward very quickly. Do you want to handle the combo regulatory path?
+EndOfBlock
+
+
+
+
+
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Yeah. Well, so the reason why we've been investing so much in developing the monovalent vaccines is really
+twofold. One is, while combos will be great, not every country actually wants to implement combos, and some
+physicians like the flexibility or patients like the flexibility of getting one at one time. But what that also allows us to
+do is really have an anchor to which we can bridge back. We've actually capitalized on this with COVID, the
+immunobridging strategy. So, we've managed to expand the age indication by doing some immunobridging work.
+And we've also managed to license the bivalents and now the monovalent for this fall, again really based on
+immunobridging.
+
+So it's really a similar kind of strategy where we will enroll certain number of individuals, we will ensure that we
+have a safety database that the agency considers to be sufficient. And then we also will compare immune
+responses to those monovalent vaccines that we now will know can be efficacious and that really is the rationale
+on which that platform is based. So, what it means is we're able to be a bit more efficient in our development in
+the sense that the investments we're making now in those monovalent programs actually pay dividends when we
+then try to develop multiple combos, because you can imagine those efficacy trials would very rapidly expand if
+we were going to do that in every [ph] instance (03:11:21).
+
+
+
+
+
+Darin Edwards
+Executive Director, COVID Vaccines Program Leader, Moderna, Inc.                                                                                                                                                                             A
+In some ways, that's also why we waited for that flu/COVID combo to move forward. We needed to know [ph] we
+nailed it, (03:11:28) right, because if you got there and you didn't have, the [ph] monos tilt up. (03:11:33) You
+might be wasting some efforts.
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+So in terms of the design of the lung cancer study, so I can't give you specifics around the design, because we're
+waiting with our colleagues at Merck to unveil the specifics of the design. What I can tell you, though, it's an
+adjuvant population. So what that means is, you wouldn't expect Stage 4s, you wouldn't expect Stage 1s. So
+that's probably as much as I can share. And Michelle, you think we should share any more?
+EndOfBlock
+
+
+
+
+
+Michelle Brown
+Vice President, Portfolio Leadership, INT Therapeutics and Oncology, Moderna, Inc.                                                                                                                                                           A
+I think we can wait a couple of weeks.
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Okay. It'll be out very, very soon. Thank you.
+EndOfBlock
+
+
+
+
+
+Tyler van Buren
+Analyst, TD Cowen                                                                                                                                                                                                                          Q
+Hey, guys. Tyler van Buren, TD Cowen. Thank you very much for the presentation. Have a couple. The first one
+is, with the list price for the COVID-19 booster announced for the fall season, can you give us more precision on
+what the net price might look like relative to the $64 to $100 range you guys previously announced?
+
+And then, the second one is on CMV. Since it's fully enrolled, not too many investors pay attention to that
+program. So what's your best guess when we'll get top line data? And can you describe the magnitude of the
+opportunity relative to, say, RSV and why investors should be so excited about it?
+EndOfBlock
+
+
+
+
+
+Arpa Garay
+Chief Commercial Officer, Moderna, Inc.                                                                                                                                                                                                      A
+Okay. So I'll start with the pricing question. The list price is around the $129, $130 that we publicly announced. As
+we get from listing that, obviously, it depends on the customer, it depends on the segment. So we don't have an
+average net price that we're going to share. Typically, from a vaccines perspective, you're giving discounts for
+wholesalers, distributors, GPOs, and then actual customer contracting, right? We do have separate pricing that is
+generally public, which I believe is now public for also the federal systems, CDC, VA and DOD.
+
+Should I answer your pricing question? There was a second part.
 EndOfBlock
 
 
@@ -1046,278 +627,538 @@ EndOfBlock
 
 
                                                                                                                                                                                                                                              A
-Yeah.
+ (03:13:26)
+
+ (03:13:27)
+
+
+
+
+
+Arpa Garay
+Chief Commercial Officer, Moderna, Inc.                                                                                                                                                                                                      A
+And then, I think you had a comment around the $64 to $100. That was from I believe a year ago where we were
+talking about the low-ball pricing and what that might look like whereas the list pricing of that I'm talking about
+ (03:13:41).
 EndOfBlock
 
 
 
 
 
-Richard Law
-Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
-Yeah, sorry. So, the question is that, would you design a Phase 2 study, such that the time line is not dependent
-on the US site? So, if you get a clinical hold from the – for the IND, you can run this entire Phase 2 study outside
-the US and it wouldn't affect the overall development trial to completion?
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Okay. And then, for CMV, so we just finished enrollment. But the way that these trials actually read out is not
+based on enrollment or length of time in study, but how the cases accrue. So CMV accrues a bit differently than
+respiratory viruses. Respiratory viruses obviously have this huge peak in the winter, CMV is a little bit more
+sustained year round, but I think harder to predict.
+
+It's also a six-month vaccination schedule. So you get three doses over six months. So we believe we may have a
+readout as early as at the end of next year. We are starting to capture cases. So we're 22 cases there towards the
+interim analysis at 81 cases. So it could be shorter, it could be longer depending on how those cases accrue.
+
+But why you should care about it is an easier question for me to answer. So beyond the fact that I think this is
+something that once people appreciate the value in preventing birth defects, so it's not just in the overall cost. I
+think immediately after birth, it's the lifelong preservation of contribution to society that really matters. There are
+other things in CMV that we may be able to investigate as well. So we have a study ongoing right now in
+hematopoietic stem cell transplant CMV. Viremia is an enormous problem actually in transplant patients, both
+solid organ and hematopoietic stem cell.
+
+And if we can figure out and crack the code of how to prevent viremia in those individuals, well, that not only is a
+market in itself, but it also opens up the possibility to learn and really work through these other therapeutic
+vaccines like EBV and like HSV. So I am super excited about CMV. I can't wait to see what those data look like
+once they are approved.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Yeah. I mean, the simplest answer to that question is, yes, we can. Of course, the priority is to have US sites
-participating, and that's the expectation. And that's something we're going to work very, very hard to do.
+Raffael Nachbagauer
+Program Leader & Executive Director, Infectious Disease Development, Moderna, Inc.                                                                                                                                                           A
+And Jackie, correct me if I'm wrong, but CMV has been the number one priority of National Academy of Medicines
+for many, many years
 EndOfBlock
 
 
 
 
 
-Richard Law
-Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
-And also, have you thought about what's the – for ATTR-PN, will you use an external control group or an active
-control group for the pivotal?
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Yes, that's true
+
+ (03:15:42)
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David, are you in a position to talk about your polyneuropathy study designs?
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+everybody has their own favorite product to develop, but the Institute of Medicine actually has labeled this a
+public health priority. And again, I think it's because of the number of productive life years lost and really the
+impact to those children and those families.
 EndOfBlock
 
 
 
 
 
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah, we're kind of not giving the exact designs. We have been very interested at all the submissions or all the
-pivotal trial so far have not used inactive comparative arm. And that has to do with the rarity of this disease and
-the reliability of some of the historical data about what's happening in these patients? And that's been used, as
-you've seen in – for example, the [indiscernible] (00:54:49) submission. So, we're looking at all that and we'll be
-coming forward with a design that we'll talk about when we have the details.
+
+                                                                                                                                                                                                                                             A
+ (03:16:07)
 EndOfBlock
 
 
 
 
 
-Richard Law
-Analyst, Credit Suisse Securities (USA) LLC                                                                                                                                                                                                Q
-Great. Thank you.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Jay Olson with Oppenheimer. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Jay Olson
+Hartaj Singh
 Analyst, Oppenheimer & Co., Inc.                                                                                                                                                                                                           Q
-So hey, thank you for the update and congrats on the progress. For NTLA-2002, can you talk about the rationale
-for using the 25 milligram and 50 milligram dosage in the Phase 2 study? And any particular reason not to pursue
-the highest 75 milligram dose? And then are there any lessons learned or read across from the NTLA-2002 IND
-that you plan to fight for the NTLA-2001 IND? Thank you.
+Hartaj Singh with Oppenheimer & Company. First, just want to thank you all for a really nice presentation. I don't
+think – I think very – few none of your biopharma peers actually give the breadth and the depth of presentations
+you all tend to do 3, 4, 5 times a year. So I really appreciate it.
+
+Couple of specific questions. I think that, Jackie, you had mentioned earlier that the implementation of the bivalent
+is going to help you with the combos. You might have answered this already question before, but how so
+specifically, with the COVID-19 bivalent, how is it going can help you with the combos in the future? And then a
+follow-on to that is one of the gentlemen previously had talked about how you monitor seasonality and variance
+currently. With the combos, how would that change and how would you able – to be able to shift that into your
+combo vaccines? Thank you.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-David will speak to the doses and how we think about that. I think with respect to the read through, we'll see.
-Obviously, NTLA-2002 is going in before NTLA-2001. And if there is information or feedback that we can apply,
-we would certainly do that. But the same basic philosophy has been applied to both of those programs with
-respect to prior engagement with regulatory agencies, the sorts of things that they're looking for, which doesn't
-differ across the programs.
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Yeah. That's a great question. And I'm going to answer twofold. So there's one from like a scientific proof-of-
+concept and then there's also a manufacturing piece to the ultimate launch of the product.
 
-Just again, to draw the distinction, NTLA-2001 is a far more advanced clinical program and the nature of the
-progression of the program in that IND would be moving to pivotal programs where a dose selection, CMC
-material, pivotal trial, et cetera, will all be part of that review, which we think will be more substantial in nature. But
-in terms of the basic preclinical information, we expect them to be quite similar.
+So from a clinical perspective, I think launching the combos, it wasn't actually obvious that you could put more
+than one antigen in the vaccine and actually get the immune response to both. So immune interference is
+something that all vaccinologists have to think through. And our ability to do that and generate specific responses
+with the bivalent not only to the Wuhan that people had been primed and boosted to for years before, but then
+also to the BA.4-5. So being able to turn that immune response on when there was such an immunodominant
+favoritism towards the Wuhan I think was incredibly encouraging to us.
 
-David, you want to speak to the dose selection and the NTLA-2002 Phase 2?
+And then, from the manufacturing piece, our ability to launch last year the vaccine within 90 days from the
+recommendation of FDA, go with Omicron BA.4-5 to the bivalent, it's double a complexity of launching a
+monovalent. And I think that also gives us confidence that we're going to be able to develop the procedures we
+need in order to launch a COVID flu – hopefully one day a COVID flu RSV. And it actually also speaks to the
+flexibility of the platform. So part of the reason why we are looking at so many different combos in Phase 1, there
+may be in some situations or for some patients, one combo that's better than another. One of the benefits of the
+platform is being able to pivot from making one thing to being able to make a different thing for another customer.
+And that's not something that's necessarily as feasible with other technologies.
 EndOfBlock
 
 
 
 
 
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. So, the Phase 2 is always planned to study two doses in addition to the placebo. This is a preferred method
-from regulatory agencies to really understand the best dose rather than picking it coming right out of Phase 1.
-And in this case, the three dose levels were all safe, they all led to zero attacks. So, it made a little more
-challenging. So, what we did see is that, the pharmacokinetics was very similar. We think we're saturating by the
-
-
-
-
-
-time you reach about 50 milligrams. So, 75 milligrams looked very similar in terms of pharmacodynamics, the
-reduction in kallikrein – reduction. And based on that, we chose the [ph] 250 milligram (00:57:32) as one of the
-doses. This is sort of, we think, as high as you need to go to get optimal activity. We chose the 25 milligram as a
-second dose, a little bit less in terms of pharmacodynamics, as you saw, instead of reaching towards 90%, it was
-more like a 50% reduction in kallikrein. But we thought again, for regulatory agencies to demonstrate that the
-higher dose might be better than lower dose is important because you are going to a higher dose with the
-potential additional risks of going to a higher dose. All in all, the safety is so good. We're not really too concerned
-about that, that aspect of it. But that's why you do those things.
-EndOfBlock
-
-
-
-
-
-Jay Olson
-Analyst, Oppenheimer & Co., Inc.                                                                                                                                                                                                           Q
-Great. Thank you very much.
-EndOfBlock
-
-
-
-
-
-Operator: The next question comes from Brian Cheng with JPMorgan. Please go ahead.
-EndOfBlock
-
-
-
-
-
-Brian Cheng
+Jessica Fye
 Analyst, JPMorgan Securities LLC                                                                                                                                                                                                           Q
-Good morning, John and Dave. Thanks for taking my questions. We're curious if you have any thoughts around
-the regulatory bar for IND clearance, specifically in the US for in vivo gene editing for some of the non-orphan
-larger disease indications compared to smaller orphan markets. Any feedback that you can provide on how the
-regulators are handling the risk benefit, especially in the indications with larger TAM? Thank you.
+Hey, good afternoon. Jess Fye, JPMorgan. For RSV, can you just talk about what you see as the key
+differentiating features of your products profile and also maybe talk about how you envision that market taking
+shape in the context of shared clinical decision making?
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-I can't speak to how the FDA is assessing benefit risk in terms of the actual application of an editing approach.
-We've tried to be very, very careful about choosing disease states in which it's pretty clear that an editing
-approach should benefit every single patient that is exposed to the agent. Treating risk factors, for example, has
-its own challenges. I think a good case can be made to do that. But when we think about at this point in the
-evolution of these therapies, a benefit risk backdrop where you're dealing with mortal illnesses, where illnesses
-have posed great risk to patients, is the right setting to apply to particular modalities. And the FDA has shared
-some sense of that, I think, in guidances that they've released. But I think the regulators, in my experience, try to
-take a considered view of one can do for patients with different approaches. And so, as they assess some of
-these other indications, those are conversations that I'm sure will play out as they're brought up one by one by the
-various sponsors to do that. So, that would be our experience thus far.
+Arpa Garay
+Chief Commercial Officer, Moderna, Inc.                                                                                                                                                                                                      A
+
+
+
+
+
+Sure. So in terms of differentiation, I'd say – and Jackie can add a little bit more on the clinical side. We have
+shown consistent high effectiveness data across multiple subgroups, which is a differentiator versus the
+competition. The second piece, as I mentioned, we are the only mRNA vaccine for RSV and we have a very well-
+established tolerability and safety profile based on all of our experience with COVID in the real-world setting.
+
+As Jackie mentioned, we also have not seen any cases of GBS or other severe neurological safety side effects.
+And then last but not least, just from an implementation perspective, we will be the only company with a ready-to-
+use prefilled syringe. On both GSK and Pfizer, we'll have to be reconstituted. There are multiple steps involved.
+And that's where from a customer perspective, we're hearing a preference for ready-to-use in terms of time saving
+and also in terms of reducing medical errors. It's across the three.
+
+In terms of the market, with the shared clinical decision making, I think it was on – there was a little bit of
+uncertainty. I think you heard from all the companies around what would that uptake look like. What we are
+hearing in the early days of the launch is actually that the demand has been much stronger than anticipated. So
+we're hearing this directly from retail pharmacies that the uptake is very strong. Over the next couple of weeks,
+we'll get more data on what does that curve look like. But it's better than expected.
 EndOfBlock
 
 
 
 
 
-Brian Cheng
-Analyst, JPMorgan Securities LLC                                                                                                                                                                                                           Q
-Great. Thanks. That was helpful.
+Raffael Nachbagauer
+Program Leader & Executive Director, Infectious Disease Development, Moderna, Inc.                                                                                                                                                           A
+Yeah. And in addition to pharmacies, I think, also this year, GSK is on the record saying that there's a very good
+uptake and they're very happy with the uptake. So we look forward to seeing the first date that when it comes by.
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Sure.
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+And, I guess, Arpa, the only thing I would add is looking to the future, there are really two advantages of mRNA.
+One is I think we have hundreds of millions of children that have received an mRNA respiratory vaccine, which is
+not necessarily true for other kinds of platforms, which is why we're already enrolling in a study of children as
+young as 5 months of age to look at actually addressing an even bigger problem, frankly, in RSV disease.
+
+The second reason is again going back to the combos. When you have multiple vaccines that are on the same
+platform, that formulation becomes so much easier than if you're having to figure out ways to combine different
+vaccines on different platforms. And so we're fairly confident that that's going to help us accelerate bringing the
+combo vaccines to market.
 EndOfBlock
 
 
 
 
 
-Operator: The last question today will come from Joseph Thome with Cowen & Company. Please go ahead.
+
+                                                                                                                                                                                                                                             A
+ (03:21:40)
 EndOfBlock
 
 
 
 
 
-Joseph Thome
-Analyst, Cowen & Co. LLC                                                                                                                                                                                                                   Q
-Hi there. Good morning and thank you for taking my question. Maybe just first [indiscernible] (01:00:40) one, did
-you have a pre-IND meeting formally before the HAE IND or maybe why wasn't one appropriate at this time? And
-then just a follow-up on the CM trial, in terms of timing of that initiation, is the main gating factor just clearance of
-the US IND or is there a certain amount of follow-up that you want to see from those expansion cohorts? Thank
-you.
+Edward Tenthoff
+Analyst, Piper Sandler & Co.                                                                                                                                                                                                               Q
+Great. Thank you. Ted Tenthoff, Piper Sandler. Just following up on some of the data that you showed with
+respect to the rare disease franchise, can you paint what the picture looks like for where we go from here? I know
+you were talking about  (03:21:56), but what could registrational trials look like in those orphan
+settings? And how different would PA, MMA be versus PKU, for example, where there's already some therapies
+there?
 EndOfBlock
 
 
 
 
 
-John M. Leonard
-President, Chief Executive Officer & Director, Intellia Therapeutics, Inc.                                                                                                                                                                   A
-Maybe David can speak to the nature of our conversations with FDA in NTLA-2002. Just with respect with the
-NTLA-2021 pivotal trial, we intend for it to be a global program which means US sites. We wouldn't begin a pivotal
-trial, is the way we think about it now without those US sites. As we've said previously, what we're looking for is a
-very robust filing that includes extensive clinical information, tantamount to in the Phase 2 of filing. And that work
-is underway. That data collection will certainly be a part of what the application is. When you do a pivotal
-program, you want to have your final commercial material available to be used in that clinical trial. That's certainly
-part of this as well. So the program is quite advanced and moving as we had hoped. So I would stay tuned as we
-have more information, we'll share it. David, you want to say anything about NTLA-2002?
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+Yeah. Thank you for that question. So there's a lot of opportunity in rare disease to go quickly with much smaller
+trials. This has been shown through precedent with multiple other agents that are in that space. And so I think the
+opportunity we have for MMA is that we have a biomarker that we can use to assess the impact of the drug. And I
+think if we can show that that biomarker has a correlation to clinical endpoints, I think it might be reasonable to
+consider that as an accelerated approval, as a surrogate for accelerated approval.
+
+We're struggling a little bit more with PA because we haven't found a relevant biomarker that can really assess
+whether or not there's a clinical impact. And so I think for PA, we're going to focus mostly on the clinical impact of
+that program, which takes a little bit longer for us to read out. We see effects on the biomarker for MMA within
+weeks of dosing, whereas with PA, it takes a bit longer to capture all that MDEs. So, that's our current strategy.
+But for PKU, I think it will follow a similar path of MMA, where we have a relevant biomarker and there's already a
+drug that has been approved based on a biomarker in an accelerated fashion, and so I think we can follow that
+same path.
 EndOfBlock
 
 
 
 
 
-David Lebwohl
-Chief Medical Officer & Executive Vice President, Intellia Therapeutics, Inc.                                                                                                                                                                A
-Yeah. So, we did have a formal pre-IND meeting for this and we actually – because we've said before we have
-fully addressed the questions that they've raised in that process.
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+ (03:23:26) on PA maybe a bit longer because we have to look at medical decompensation event.
+It's an endpoint, as you know, Ted, we've talked about it before that the regulators have accepted 
+(03:23:36) endpoint. Just a timing, speed issue.
 EndOfBlock
 
 
 
 
 
-Joseph Thome
-Analyst, Cowen & Co. LLC                                                                                                                                                                                                                   Q
-Great. Thank you very much.
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+But regardless, this is where Jackie's world and my world are very, very different. We're hoping for very small
+studies, 12 to maximum 50 patients in these studies for an approval. Jackie, I can't imagine a vaccine ever getting
+approved on 12 patients, but
 EndOfBlock
 
 
 
 
 
-Operator: This concludes our question-and-answer session. I would like to turn the conference back over to Ian
-Karp for any closing remarks.
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+MMR actually  (03:24:03) MMR, but yeah
 EndOfBlock
 
 
 
 
 
-Ian Karp
-Senior Vice President-Investor Relations & Corporate Communications, Intellia Therapeutics, Inc.
-Great. And thanks so much, everyone, for joining us today and for your continued interest. And we certainly look
-forward to providing additional updates as we progress throughout the year. So, thanks and have a great day.
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+She gets to enroll many, many more patients than I do in our clinical trials, but somehow she still is faster than I
+am.
 EndOfBlock
 
 
 
 
 
-Operator: The conference has now concluded. Thank you for attending today's presentation. You may now
-disconnect.
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+Yeah. I was going to say  (03:24:14).
+EndOfBlock
+
+
+
+
+
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+That's a testament to all of the people in the clinical development operations group that made that happen.
+EndOfBlock
+
+
+
+
+
+Kyle Holen
+Senior Vice President, Head of Development, Therapeutics and Oncology, Research and Development, Moderna, Inc.                                                                                                                               A
+For sure.
+EndOfBlock
+
+
+
+
+
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+Thanks, Ted.
+EndOfBlock
+
+
+
+
+
+Mani Foroohar
+Analyst, SVB Leerink                                                                                                                                                                                                                       Q
+Yeah. Thanks for the very thorough presentation. Mani Foroohar, Leerink Partners.. A couple of questions on the
+financial side. You talked about the relevance of US vaccine volumes to the guidance this year. How do you think
+about what data you gather from jab volume in the US this 4Q and the extent to which you read that forward into
+next year and future seasons? Is it fairly linear as Pfizer has suggested on their calls or do you think each season
+kind of has its own character and you're going to see multiple endemic years before you start assuming what a
+run rate would be? And I've got one more question.
+EndOfBlock
+
+
+
+
+
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Yeah. So maybe I'll take that one. I think this year will be a good data point for future sort of volumes. And I would
+not say that it's a linear sort of what we see this year is what's going to happen in the future. I think there are a
+couple of things that could change year-over-year. It could be severity of disease. So depending on the variant
+that's circulating and the hospitalizations and the rate of people getting sick could certainly change that equation.
+
+I think the other piece that's different this year versus in future years is the ACIP recommendation, and the
+approval just happened yesterday. Whereas in future years, this will become more sort of common practice as
+part of universal recommendations. And then, I think the third piece is hopefully starting next year, we'll be more in
+line and in sync with the flu launch timing, so that when flu vaccines are available, COVID vaccines will also be
+available, right, to capture those patients that are getting in – going in early.
+
+So I think it's a good data point, but I would believe that over time, the actual volume could increase, as there's
+greater acceptance, there is greater – it's also the first commercial year for the US. So there's more experience,
+more acceptance, more understanding, I think, that volume or that market could grow.
+EndOfBlock
+
+
+
+
+
+Stéphane Bancel
+Chief Executive Officer & Director, Moderna, Inc.                                                                                                                                                                                            A
+And the other piece I would just add to our first comment is the combo, which is if we could launch mRNA-1083,
+for example, in 2025, there's [ph] 150 million dose in normal flu (03:26:37) in the US every year. So, I believe that
+a lot of consumers, if a combo product is available early in the season, will decide to go with combo to get more
+protection,  (03:26:52) in the US in COVID than we have a flu. And so I already think that over time
+– and as you say, it's not going to be linear and we have to be humble about how those next couple of years look
+like. But I think the combo might be yet another thing that help us go toward the flu volume. 
+(03:27:09) process.
+EndOfBlock
+
+
+
+
+
+Mani Foroohar
+Analyst, SVB Leerink                                                                                                                                                                                                                       Q
+
+
+
+
+
+And a follow-up on the expense infrastructure and the flexing that you talked about around thinking about how to
+think about clinical trial results, et cetera, different franchises. Can you give us a sense of on SG&A, R&D and
+COGS respectively, like how much time does it take to flex up or down based upon what we see with the COVID
+business this year? Does it take a year to flex down because you've got contracts with suppliers on the R&D and
+SG&A side? How nimble can you be in terms of scaling up or down? Obviously, you can't just send people home.
+It takes time to resize your head count. Like how quickly could you pivot in either direction?
+EndOfBlock
+
+
+
+
+
+James M. Mock
+Chief Financial Officer, Moderna, Inc.                                                                                                                                                                                                       A
+So maybe I'll start with cost of goods sold and
+EndOfBlock
+
+
+
+
+
+Mani Foroohar
+Analyst, SVB Leerink                                                                                                                                                                                                                       Q
+That's to you.
+EndOfBlock
+
+
+
+
+
+James M. Mock
+Chief Financial Officer, Moderna, Inc.                                                                                                                                                                                                       A
+SG&A. I'll let Stephen talk about  (03:28:01). So we believe we can act pretty quickly in both
+categories. Number one, we use a lot of outside services and partners. It's easier to shut that down. That's a
+substantial portion and it's not a long-term contract.
+
+On the cost of goods sold side, as I mentioned, it'll take a little bit of time. And I think extra volume, the
+combinations, that'll help us achieve our overall 75% to 80% gross margin. But you'll see a marked step from
+2023 to 2024 in terms of our cost of goods sold percent. So we might not get the entire way there, but we're
+taking steps to do it. And same thing on the SG&A side.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+Yeah. I think R&D is pretty flexible. And we make investment decisions around these programs to try and drive
+towards the product launches. The overwhelming majority of the budget is dedicated to clinical trials and clinical
+expense, and the overwhelming majority of that is in the late stage. And as you look at the spend drivers, you can
+see that that drives more towards our respiratory studies right now. That makes sense. Those are very large, as
+Kyle was joking a moment ago. As they rotate down, they'll change. But those studies tend to run the year. All
+right. So one way to think of that is that that's probably the gate in which we have really substantial flexibility. But
+more importantly, we kind of look at those commitments to start a Phase 3 study to get a product launch as
+franchise, a value creation event. Actually, it generates financing opportunities in the years ahead. So as we
+make those investments and as we see those successes, we actually think it allows us to make more investments
+going forward. But we have a high degree of flexibility, certainly over five years and even a year or two.
+EndOfBlock
+
+
+
+
+
+Steve Chesney
+Analyst, Redburn Atlantic                                                                                                                                                                                                                  Q
+Hi. Steve Chesney from Redburn Atlantic. Just two quick ones for me. Just thinking about the opportunity in the
+high efficacy flu vaccine space, what are your thoughts around the need for hospitalization data as you eventually
+approach payers? And then on the COVID vaccine side, it sounds like you've made a lot of progress on
+contracting. Could you provide any updated thoughts on the contract dynamics in terms of how returns would be
+handled? And then just on the cadence of revenue recognition into the third and fourth quarter. Thanks.
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+Do you want to take first one?
+EndOfBlock
+
+
+
+
+
+Jacqueline Miller
+Senior Vice President-Development, Infectious Diseases and Research & Development, Moderna, Inc.                                                                                                                                             A
+Sure, I can talk about – so, part of the whole accelerated approval pathway and the regulations is that you
+conduct post-marketing efficacy studies. So we are anticipating undertaking that study and hospitalizations would
+be an endpoint obviously built into that study just like they've been built into COVID-19 and RSV and the original
+actually P302 study. And then I'll hand it off to  (03:30:42).
+EndOfBlock
+
+
+
+
+
+Stephen Hoge
+President, Moderna, Inc.                                                                                                                                                                                                                     A
+Well, the only thing I'd just as we're hearing off is generally – whether it's ACIP or other recommending
+authorities, when they've created the enhanced categories, there are precedents for accelerated approval
+products being recommended based on immunogenicity. So while we have the obligation to fulfill that and I don't
+think it's – we don't see it right now as initially limiting.
+EndOfBlock
+
+
+
+
+
+Michelle Brown
+Vice President, Portfolio Leadership, INT Therapeutics and Oncology, Moderna, Inc.                                                                                                                                                           A
+So maybe I'll take the first part of the question on contracts. From a contracting perspective, there is – depending
+on the customer in the segment, we do have different [ph] returnability (03:31:09) clauses. I'd say this year going
+into a commercial market is probably the most sort of uncertain year from a customer perspective on total
+demand that we've been working closely with them on, depending on the size of the contract and the customer. In
+terms of the Q3, Q4 revenue recognition, do you want to take that one?
+EndOfBlock
+
+
+
+
+
+James M. Mock
+Chief Financial Officer, Moderna, Inc.                                                                                                                                                                                                       A
+Yeah, sure. No change. At the last earnings call, we guided that about 30% of our revenue in the second half
+would be recognized in the third quarter, which then 70% in the fourth quarter. So still sticking to that.
+EndOfBlock
+
+
+
+
+
+Unverified Participant
+
+Hey, with that, thank you very much to the panel and for everyone who had questions. We invite all of you to
+please stay through the orders and cocktail hour and mingle with management. Thank you.
+EndOfBlock
+
+
+
+
+
+Unverified Participant
+
+Thank you.
+EndOfBlock
+
+
+
+
+
+Unverified Participant
+
+Thank you.
 
 
 
@@ -1339,7 +1180,7 @@ disconnect.
  BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
  LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSO RS OR SUPPLIERS WILL BE LIABLE FOR ANY
- INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE ,
+ INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
  SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
  OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
 
