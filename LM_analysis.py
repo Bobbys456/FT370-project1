@@ -88,13 +88,17 @@ def get_data(doc):
 
     return _odata
 
-def LM_text(text):
+def LM_text(df, verb, txtform = False):
     ''' Demonstrate the use of LM dictionary to compute metrics per file stored in
     '''
-
+    if not txtform: 
+        text = ''
+        for item in df['text']: 
+            text += item
+    else: 
+        text = df
+    
     global OUTPUT_FIELDS
-
-
 
     doc = text
     doc = re.sub('(May|MAY)', ' ', doc)  # drop all May month references
@@ -114,13 +118,16 @@ def LM_text(text):
 
     max_key_length = max(len(key) for key in data.keys())
     
-    for key, value in data.items():
-        print(f"{key:{max_key_length}} : {value}")
+    
 
-    print(f"{'Gunning fog index: ':{max_key_length}} : {str(calculate_gunning_fog(text))}")
+    if verb: 
+        for key, value in data.items():
+            print(f"{key:{max_key_length}} : {value}")
 
-    print('-'* 30)
-    print('\n' * 2)
+        print(f"{'Gunning fog index: ':{max_key_length}} : {str(calculate_gunning_fog(text))}")
+
+        print('-'* 30)
+        print('\n' * 2)
 
     
 

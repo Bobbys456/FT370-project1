@@ -4,56 +4,59 @@ from earnings_questions import getQAs
 from LM_analysis import LM_text
 import os
 import nltk
+from sentiment import top_5_sentiment
 
 
 
-company = 'mrna'
 
-def main():   
 
-    #gets dataframes of text ans stores them to csv for debugging
-    #dfq, dfa, dfp = parse_earnings(company)
+def analyze_call(company, storedata=False):   
 
-    #gets dataframes without storing as csv 
-    dfq,dfa, dfp = getQAs(company)
+        #gets dataframes of text ans stores them to csv for debugging
+    if storedata: 
+        dfq, dfa, dfp = parse_earnings(company)
+    else: 
+        #gets dataframes without storing as csv 
+        dfq,dfa, dfp = getQAs(company, storedata)
+        
+    print("text split.....\n\n\n")
 
     #splitting cfo and ceo answers
     dfa['title'] = dfa['title'].apply(title_norm)
     ceo = dfa[dfa['title'] == 'CEO']
     cfo = dfa[dfa['title'] == 'CFO'] 
 
-    print(cfo)
+    print("cfo and ceo split.....\n\n\n")
 
     #create single txt docs for all text in questions and answers seperately to be analyzed as single block of text
-    create_txt(dfq, 'q')
-    create_txt(dfa, 'a')
-    create_txt(dfp, 'p')
-    create_txt(ceo, 'c')
-    create_txt(cfo, 'f')
+    if storedata: 
+        create_txt(dfq, 'q')
+        create_txt(dfa, 'a')
+        create_txt(dfp, 'p')
+        create_txt(ceo, 'c')
+        create_txt(cfo, 'f')
     
 
     #performs analysis on answers text
-    with open(os.path.join('data', 'LM', 'answers.txt')) as file: 
-        print('Answers\n')
-        text = file.read()
-        LM_text(text)
+    print('All answers\n')
+    LM_text(dfa, True)
+    
         
-    
     #performs analysis on prepared remakrs text
-    with open(os.path.join('data', 'LM', 'prepared_remarks.txt')) as file: 
-        print('Prepared Remarks\n')
-        text = file.read()
-        LM_text(text)
+    print('Prepared remarks\n')
+    LM_text(dfp, True)
     
-    with open(os.path.join('data', 'LM', 'cfo.txt')) as file: 
-        print('CFO answers\n')
-        text = file.read()
-        LM_text(text)
+    #analysis on cfo answers
+    print('CFO answers\n')
+    LM_text(cfo, True)
 
-    with open(os.path.join('data', 'LM', 'ceo.txt')) as file: 
-        print('CEO answers\n')
-        text = file.read()
-        LM_text(text)
+    #analysis on ceo answers
+    print('CEO answers\n')
+    print(ceo)
+    LM_text(ceo, True)
+
+    #Generates to text files, good and bad news, that contain the top 5 text peices for positiveand negative sentiment
+    top_5_sentiment(company) 
     
         
 
@@ -97,13 +100,13 @@ def title_norm(text):
         return text
     
 def get_pos(text):
-    pos = LM_text(text)["% positive"]
+    pos = LM_text(text, False)["% positive"]
     return pos
 
 def get_neg(text):
-    neg = LM_text(text)['% negative']
+    neg = LM_text(text, False)['% negative']
     return neg
 
-main()
+
 
 

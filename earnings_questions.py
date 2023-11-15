@@ -1,4 +1,4 @@
-def getQAs(company):
+def getQAs(company, storedata):
     import re
     import pandas as pd
 
@@ -21,8 +21,10 @@ def getQAs(company):
     prepared = re.findall(r'[\s\S]+QUESTION AND ANSWER SECTION', text)
     prepared = re.sub(r'[\s\S]+MANAGEMENT DISCUSSION SECTION[\s\S]+?EndOfBlock','', prepared[0])
     prepared = re.sub(r'QUESTION AND ANSWER SECTION','EndOfBlock', prepared)
-    with open('data/pre.txt', 'w') as file: 
-        file.write(prepared)
+    
+    if storedata: 
+        with open('data/pre.txt', 'w') as file: 
+            file.write(prepared)
 
 
     #Removes the prepared remarks
@@ -33,13 +35,9 @@ def getQAs(company):
 
 
 
-
-    with open('data/out.txt', 'w') as file: 
-        file.write(text)
-
-
-    with open('data/out.txt') as file: 
-        text = file.read()
+    if storedata: 
+        with open('data/out.txt', 'w') as file: 
+            file.write(text)
 
     #\n\n(\w+\s[\w\s.]+\n)([\w\s-&/]+),([\w\s-&]+,\s[\w.]+)\s+(A\n)([\s\S]+?)(EndOfBlock)
     #old regex  : (\sA\n)([\s\S]+?)(EndOfBlock)
@@ -62,14 +60,11 @@ def getQAs(company):
     dfq = dfq.stack().str.strip().unstack()
     dfp = dfp.stack().str.strip().unstack()
 
-
-
-
-
     print(dfa)
     print(dfq)
     print(dfp)
 
-    dfq.to_excel("data/output.xlsx")
+    if storedata: 
+        dfq.to_excel("data/output.xlsx")
 
     return dfq, dfa, dfp

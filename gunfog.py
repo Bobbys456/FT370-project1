@@ -47,7 +47,7 @@ def calculate_gunning_fog(corpus):
     average_sentence_length = word_count / sentence_count
 
     # Calculate the percentage of complex words in the text
-    complex_word_percentage = (complex_word_count / word_count) * 100
+    complex_word_percentage = (complex_word_count / (word_count + 1)) * 100
 
     # Calculate the Gunning Fog Index
     fog_index = 0.4 * (average_sentence_length + complex_word_percentage)

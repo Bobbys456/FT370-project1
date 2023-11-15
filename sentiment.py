@@ -1,21 +1,21 @@
 from LM_analysis import LM_text
 import pandas as pd
+import os
 
-def top_5_sentiment():
+def top_5_sentiment(company):
 
     def get_pos(text):
-        pos = LM_text(text)["% positive"]
+        pos = LM_text(text, verb=False, txtform = True)["% positive"]
         return pos
 
     def get_neg(text):
-        neg = LM_text(text)['% negative']
+        neg = LM_text(text, verb=False, txtform = True)['% negative']
         return neg
 
-    response_sent = pd.read_csv('data\\mrna_answers.csv')
+    response_sent = pd.read_csv(os.path.join('data', company+'_answers.csv'))
     response_sent['pos'] = response_sent['text'].apply(get_pos)
     response_sent['neg'] = response_sent['text'].apply(get_neg)
 
-    print(response_sent.sort_values('pos')['text'].head(5))
 
 
     response_sent = response_sent.sort_values('pos')
