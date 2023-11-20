@@ -1,6 +1,6 @@
 import re
 import pandas as pd 
-from earnings_questions import getQAs
+from earnings_preprocess import getQAs
 from LM_analysis import LM_text
 import os
 import nltk
@@ -38,25 +38,24 @@ def analyze_call(company, storedata=False):
     
 
     #performs analysis on answers text
-    print('All answers\n')
+    print(company + ': All answers\n')
     LM_text(dfa, True)
     
         
     #performs analysis on prepared remakrs text
-    print('Prepared remarks\n')
+    print(company + ': Prepared remarks\n')
     LM_text(dfp, True)
     
     #analysis on cfo answers
-    print('CFO answers\n')
+    print(company + ': CFO answers\n')
     LM_text(cfo, True)
 
     #analysis on ceo answers
-    print('CEO answers\n')
-    print(ceo)
+    print(company + ': CEO answers\n')
     LM_text(ceo, True)
 
     #Generates to text files, good and bad news, that contain the top 5 text peices for positiveand negative sentiment
-    top_5_sentiment(company) 
+    top_5_sentiment(company, dfq, dfa, dfp) 
     
         
 
@@ -70,25 +69,25 @@ def parse_earnings(company):
 
     return dfq, dfa, dfp
 
-def create_txt(df, type):
+def create_txt(df, type, company):
     output = ''
     for item in df['text']: 
         output += item
     
     if type=='a': 
-        with open(os.path.join('data','LM', 'answers.txt'), 'w') as file: 
+        with open(os.path.join('data','LM', company + '_answers.txt'), 'w') as file: 
             file.write(output)
     elif type =='q': 
-        with open(os.path.join('data','LM', 'questions.txt'), 'w') as file: 
+        with open(os.path.join('data','LM',  company + '_questions.txt'), 'w') as file: 
             file.write(output)
     elif type =='c': 
-        with open(os.path.join('data','LM', 'ceo.txt'), 'w') as file: 
+        with open(os.path.join('data','LM',  company + '_ceo.txt'), 'w') as file: 
             file.write(output)
     elif type =='f': 
-        with open(os.path.join('data','LM', 'cfo.txt'), 'w') as file: 
+        with open(os.path.join('data','LM',  company + '_cfo.txt'), 'w') as file: 
             file.write(output)
     else: 
-        with open(os.path.join('data','LM', 'prepared_remarks.txt'), 'w') as file: 
+        with open(os.path.join('data','LM',  company + '_prepared_remarks.txt'), 'w') as file: 
             file.write(output)
 
 def title_norm(text): 

@@ -2,7 +2,7 @@ from LM_analysis import LM_text
 import pandas as pd
 import os
 
-def top_5_sentiment(company):
+def top_5_sentiment(company, dfq, dfa, dfp):
 
     def get_pos(text):
         pos = LM_text(text, verb=False, txtform = True)["% positive"]
@@ -12,7 +12,7 @@ def top_5_sentiment(company):
         neg = LM_text(text, verb=False, txtform = True)['% negative']
         return neg
 
-    response_sent = pd.read_csv(os.path.join('data', company+'_answers.csv'))
+    response_sent = dfa
     response_sent['pos'] = response_sent['text'].apply(get_pos)
     response_sent['neg'] = response_sent['text'].apply(get_neg)
 
