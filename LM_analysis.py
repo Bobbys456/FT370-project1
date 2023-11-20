@@ -23,6 +23,20 @@ MASTER_DICTIONARY_FILE = os.path.join('data', LMDICT_FILE_NAME)
 # User defined output file
 OUTPUT_FILE = os.path.join('data'+'LMoutput.csv')
 
+#list of common words in negation 
+negation_words = [
+    "NO", "NOT", "NONE", "NOBODY", "NOTHING", "NOWHERE", 
+    "NEITHER", "NOR", "NEVER", "HARDLY", "SCARCELY", "BARELY", 
+    "CANNOT", "CAN'T", "DIDN'T", "DOESN'T", "WON'T", "ISN'T", 
+    "AREN'T", "HAVEN'T", "HASN'T", "WASN'T", "WEREN'T", 
+    "SHOULDN'T", "WOULDN'T", "COULDN'T", "MUSTN'T", "AIN'T", 
+    "AIN", "AIN'T", "AINT", "NOPE", "NIL", "NIX", "NAH", 
+    "NEGATIVE", "DENY", "REFUSE", "DISAPPROVE", "REJECT", 
+    "OPPOSE", "PROTEST", "DISAGREE", "DISALLOW", "DISCLAIM", 
+    "DOUBT", "FORBID", "FORGET", "LACK", "MINUS", "MISS", 
+    "REFUSE", "DENY", "WITHOUT"
+    ]
+
 # Setup output
 OUTPUT_FIELDS = ['file name', 'file size', 'number of words', '% negative', '% positive',
                  '% uncertainty', '% litigious', '% strong modal', '% weak modal',
@@ -46,14 +60,22 @@ def get_data(doc):
     word_length = 0
 
     tokens = re.findall('\w+', doc)  # Note that \w+ splits hyphenated words
-    for token in tokens:
+    for index, token in enumerate(tokens):
         if not token.isdigit() and len(token) > 1 and token in lm_dictionary:
             _odata[2] += 1  # word count
             word_length += len(token)
             if token not in vdictionary:
                 vdictionary[token] = 1
-            if lm_dictionary[token].negative: _odata[3] += 1
-            if lm_dictionary[token].positive: _odata[4] += 1
+            if lm_dictionary[token].negative: 
+                if any(word in tokens[index-3: index-1] for word in negation_words) or any(word in tokens[index+1: index+2] for word in negation_words):
+                    _odata[4] += 1
+                else: 
+                    _odata[3] += 1
+            if lm_dictionary[token].positive: 
+                if any(word in tokens[index-3: index-1] for word in negation_words) or any(word in tokens[index+1: index+2] for word in negation_words):
+                    _odata[3] += 1
+                else: 
+                    _odata[4] += 1
             if lm_dictionary[token].uncertainty: _odata[5] += 1
             if lm_dictionary[token].litigious: _odata[6] += 1
             if lm_dictionary[token].strong_modal: _odata[7] += 1
@@ -88,7 +110,7 @@ def get_data(doc):
 
     return _odata
 
-def LM_text(df, verb, txtform = False):
+def LM_text(df, verb, txtform = False, small=False, company=''):
     ''' Demonstrate the use of LM dictionary to compute metrics per file stored in
     '''
     if not txtform: 
@@ -129,6 +151,11 @@ def LM_text(df, verb, txtform = False):
         print('-'* 30)
         print('\n' * 2)
 
-    
+    if not small: 
+        lmout = pd.DataFrame(dict(zip(OUTPUT_FIELDS, output_data)), index=[0])
+        lmout.to_csv('data/LM/' +company+'_LM_output.csv')
 
+    
     return dict(zip(OUTPUT_FIELDS, output_data))
+
+

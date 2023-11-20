@@ -64,7 +64,10 @@ def getQAs(company, storedata):
     print(dfq)
     print(dfp)
 
-    if storedata: 
-        dfq.to_excel("data/output.xlsx")
+    
+    dfq.to_csv("data/"+ company + "questions.csv")
+    dfa.to_csv("data/"+ company + "answers.csv")
+    dfp.to_csv("data/"+ company + "prepared_remarks.csv")
 
+    
     return dfq, dfa, dfp

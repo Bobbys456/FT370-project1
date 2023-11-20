@@ -221,6 +221,18 @@ def write_only_changes_html(sentences0, sentences1, title0, title1):
         file.write("</head>\n")
         file.write("<body>\n")
 
+        file.write("<div style='float: left; width: 48%; padding: 10px; word-wrap: break-word; vertical-align: top;'>\n")
+        file.write(f"<h2>{title0}</h2>\n")
+        file.write("</div>\n")
+
+        # Text box for title1
+        file.write("<div style='float: right; width: 48%; padding: 10px; word-wrap: break-word; vertical-align: top;'>\n")
+        file.write(f"<h2>{title1}</h2>\n")
+        file.write("</div>\n")
+
+        # Clear floats after the title boxes
+        file.write("<div style='clear: both;'></div>\n")
+
         for sentence in sentences0:
             corresponding_sentence = most_similar_sentence(sentence, sentences1)
 
@@ -275,8 +287,8 @@ if __name__ == "__main__":
     write_only_changes_html(tsla_2021_sentences, tsla_2022_sentences, "TSLA 2021", "TSLA 2022")
     write_only_changes_html(mrna_2021_sentences, mrna_2022_sentences, "MRNA 2021", "MRNA 2022")
 
-    analyze_call('tesla')
     analyze_call('mrna')
-
+    analyze_call('tesla')
+    
 
     

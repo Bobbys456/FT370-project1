@@ -21,10 +21,18 @@ def analyze_call(company, storedata=False):
         
     print("text split.....\n\n\n")
 
+    
+ 
     #splitting cfo and ceo answers
     dfa['title'] = dfa['title'].apply(title_norm)
-    ceo = dfa[dfa['title'] == 'CEO']
     cfo = dfa[dfa['title'] == 'CFO'] 
+
+    dfa = pd.read_csv('data/'+company+'answers.csv')
+    dfa['title'] = dfa['title'].apply(title_norm)
+    ceo = dfa[dfa['title'] == 'CEO']
+
+    print(ceo)
+    print(cfo)
 
     print("cfo and ceo split.....\n\n\n")
 
@@ -39,20 +47,20 @@ def analyze_call(company, storedata=False):
 
     #performs analysis on answers text
     print(company + ': All answers\n')
-    LM_text(dfa, True)
+    LM_text(dfa, True, company=company)
     
         
     #performs analysis on prepared remakrs text
     print(company + ': Prepared remarks\n')
-    LM_text(dfp, True)
+    LM_text(dfp, True, company=company)
     
     #analysis on cfo answers
     print(company + ': CFO answers\n')
-    LM_text(cfo, True)
+    LM_text(cfo, True, company=company)
 
     #analysis on ceo answers
     print(company + ': CEO answers\n')
-    LM_text(ceo, True)
+    LM_text(ceo, True, company=company)
 
     #Generates to text files, good and bad news, that contain the top 5 text peices for positiveand negative sentiment
     top_5_sentiment(company, dfq, dfa, dfp) 
@@ -91,7 +99,9 @@ def create_txt(df, type, company):
             file.write(output)
 
 def title_norm(text): 
-    if ('Chief Executive Officer' or 'President') in text:  
+    if 'Chief Executive Officer' in text:  
+        return 'CEO'
+    elif 'President' in text and not 'Vice' in text: 
         return 'CEO'
     elif 'Chief Financial Officer' in text: 
         return 'CFO'
